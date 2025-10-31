@@ -1,0 +1,299 @@
+[Thu Oct 30 14:32:56 2025] Server started
+[Thu Oct 30 14:32:56 2025] Server listening on port 8080
+[Thu Oct 30 14:33:15 2025] New client connected: socket 5
+[Thu Oct 30 14:33:22 2025] Login attempt: username=qa
+[Thu Oct 30 14:33:22 2025] qa logged in
+[Thu Oct 30 14:33:52 2025] New client connected: socket 6
+[Thu Oct 30 14:33:57 2025] Login attempt: username=bob
+[Thu Oct 30 14:33:57 2025] bob logged in
+[Thu Oct 30 14:34:01 2025] Received from bob: /qa hi
+[Thu Oct 30 14:34:01 2025] Parsed command from bob: target=qa, msg='hi'
+[Thu Oct 30 14:34:01 2025] Sending private message to qa: hi
+[Thu Oct 30 14:34:01 2025] Saved conversation to conversation/conversation_bob_qa.txt: bob: hi
+[Thu Oct 30 14:34:01 2025] bob → qa: hi
+[Thu Oct 30 14:34:22 2025] Received from qa: //bob ok
+[Thu Oct 30 14:34:22 2025] Parsed command from qa: target=/bob, msg='ok'
+[Thu Oct 30 14:34:22 2025] Invalid target: /bob
+[Thu Oct 30 14:34:26 2025] Received from qa: /bob ok
+[Thu Oct 30 14:34:26 2025] Parsed command from qa: target=bob, msg='ok'
+[Thu Oct 30 14:34:26 2025] Sending private message to bob: ok
+[Thu Oct 30 14:34:26 2025] Saved conversation to conversation/conversation_bob_qa.txt: qa: ok
+[Thu Oct 30 14:34:26 2025] qa → bob: ok
+[Thu Oct 30 14:34:34 2025] Received from qa: /bob
+[Thu Oct 30 14:34:34 2025] Parsed command from qa: target=bob, msg=''
+[Thu Oct 30 14:34:34 2025] Fetching conversation history for bob (isGroup=0)
+[Thu Oct 30 14:34:34 2025] Attempting to read conversation file: conversation/conversation_bob_qa.txt
+[Thu Oct 30 14:34:34 2025] Sending history line: [Thu Oct 30 14:34:01 2025] bob: hi
+[Thu Oct 30 14:34:34 2025] Sending history line: [Thu Oct 30 14:34:26 2025] qa: ok
+[Thu Oct 30 14:34:34 2025] Sent conversation history for bob to socket 5
+[Thu Oct 30 14:34:57 2025] Received from qa: /bob
+[Thu Oct 30 14:34:57 2025] Parsed command from qa: target=bob, msg=''
+[Thu Oct 30 14:34:57 2025] Fetching conversation history for bob (isGroup=0)
+[Thu Oct 30 14:34:57 2025] Attempting to read conversation file: conversation/conversation_bob_qa.txt
+[Thu Oct 30 14:34:57 2025] Sending history line: [Thu Oct 30 14:34:01 2025] bob: hi
+[Thu Oct 30 14:34:57 2025] Sending history line: [Thu Oct 30 14:34:26 2025] qa: ok
+[Thu Oct 30 14:34:57 2025] Sent conversation history for bob to socket 5
+[Thu Oct 30 14:41:24 2025] Server started
+[Thu Oct 30 14:41:24 2025] Server listening on port 8080
+[Thu Oct 30 14:41:34 2025] New client connected: socket 5
+[Thu Oct 30 14:41:36 2025] Login attempt: username=qa
+[Thu Oct 30 14:41:36 2025] qa logged in
+[Thu Oct 30 14:41:47 2025] New client connected: socket 6
+[Thu Oct 30 14:41:49 2025] Login attempt: username=bob
+[Thu Oct 30 14:41:49 2025] bob logged in
+[Thu Oct 30 14:41:55 2025] Received from qa: /bob 123
+[Thu Oct 30 14:41:55 2025] Parsed command from qa: target=bob, msg='123'
+[Thu Oct 30 14:41:55 2025] Sending private message to bob: 123
+[Thu Oct 30 14:41:55 2025] Saved conversation to conversation/conversation_bob_qa.txt: qa: 123
+[Thu Oct 30 14:41:55 2025] qa → bob: 123
+[Thu Oct 30 14:42:00 2025] Received from bob: /qa 456
+[Thu Oct 30 14:42:00 2025] Parsed command from bob: target=qa, msg='456'
+[Thu Oct 30 14:42:00 2025] Sending private message to qa: 456
+[Thu Oct 30 14:42:00 2025] Saved conversation to conversation/conversation_bob_qa.txt: bob: 456
+[Thu Oct 30 14:42:00 2025] bob → qa: 456
+[Thu Oct 30 14:42:06 2025] Received from qa: |bob
+[Thu Oct 30 14:42:06 2025] Fetching conversation history for bob
+[Thu Oct 30 14:42:06 2025] Attempting to read conversation file: conversation/conversation_bob_qa.txt
+[Thu Oct 30 14:42:06 2025] Sending history line: [Thu Oct 30 14:34:01 2025] bob: hi
+[Thu Oct 30 14:42:06 2025] Sending history line: [Thu Oct 30 14:34:26 2025] qa: ok
+[Thu Oct 30 14:42:06 2025] Sending history line: [Thu Oct 30 14:41:55 2025] qa: 123
+[Thu Oct 30 14:42:06 2025] Sending history line: [Thu Oct 30 14:42:00 2025] bob: 456
+[Thu Oct 30 14:42:06 2025] Sent conversation history for bob to socket 5
+[Thu Oct 30 14:49:04 2025] Server started
+[Thu Oct 30 14:49:04 2025] Server listening on port 8080
+[Thu Oct 30 14:49:17 2025] New client connected: socket 5
+[Thu Oct 30 14:49:35 2025] New client connected: socket 6
+[Thu Oct 30 14:49:42 2025] Login attempt: username=bob
+[Thu Oct 30 14:49:42 2025] bob logged in
+[Thu Oct 30 14:49:47 2025] Login attempt: username=qa
+[Thu Oct 30 14:49:47 2025] qa logged in
+[Thu Oct 30 14:49:51 2025] Received from qa: /bob hiu
+[Thu Oct 30 14:49:51 2025] Parsed command from qa: target=bob, msg='hiu'
+[Thu Oct 30 14:49:51 2025] Sending private message to bob: hiu
+[Thu Oct 30 14:49:51 2025] Saved conversation to conversation/conversation_bob_qa.txt: qa: hiu
+[Thu Oct 30 14:49:51 2025] qa → bob: hiu
+[Thu Oct 30 14:49:55 2025] Received from bob: /qa oi
+[Thu Oct 30 14:49:55 2025] Parsed command from bob: target=qa, msg='oi'
+[Thu Oct 30 14:49:55 2025] Sending private message to qa: oi
+[Thu Oct 30 14:49:55 2025] Saved conversation to conversation/conversation_bob_qa.txt: bob: oi
+[Thu Oct 30 14:49:55 2025] bob → qa: oi
+[Thu Oct 30 14:50:04 2025] Received from qa: |bob
+[Thu Oct 30 14:50:04 2025] Fetching conversation history for bob
+[Thu Oct 30 14:50:04 2025] Attempting to read conversation file: conversation/conversation_bob_qa.txt
+[Thu Oct 30 14:50:04 2025] Sending history line: [Thu Oct 30 14:49:51 2025] qa: hiu
+[Thu Oct 30 14:50:04 2025] Sending history line: [Thu Oct 30 14:49:55 2025] bob: oi
+[Thu Oct 30 14:50:04 2025] Sent conversation history for bob to socket 5 (lines sent: 2)
+[Thu Oct 30 14:56:31 2025] Received from qa: cat server.log | grep -A 10 "|bob"
+[Thu Oct 30 14:56:31 2025] Broadcasting message from qa: cat server.log | grep -A 10 "|bob"
+[Thu Oct 30 14:56:31 2025] qa broadcast: cat server.log | grep -A 10 "|bob"
+[Thu Oct 30 19:19:26 2025] Server started
+[Thu Oct 30 19:19:26 2025] Server listening on port 8080
+[Thu Oct 30 19:39:57 2025] Server started
+[Thu Oct 30 19:39:57 2025] Server listening on port 8080
+[Thu Oct 30 19:40:02 2025] [ERROR] Accept failed: Resource temporarily unavailable
+[Thu Oct 30 19:40:07 2025] [ERROR] Accept failed: Resource temporarily unavailable
+[Thu Oct 30 19:40:13 2025] [ERROR] Accept failed: Resource temporarily unavailable
+[Thu Oct 30 19:40:18 2025] [ERROR] Accept failed: Resource temporarily unavailable
+[Thu Oct 30 19:40:23 2025] [ERROR] Accept failed: Resource temporarily unavailable
+[Thu Oct 30 19:40:28 2025] [ERROR] Accept failed: Resource temporarily unavailable
+[Thu Oct 30 19:40:33 2025] [ERROR] Accept failed: Resource temporarily unavailable
+[Thu Oct 30 19:40:35 2025] New client connected: socket 5
+[Thu Oct 30 19:40:38 2025] Login attempt: username=qa
+[Thu Oct 30 19:40:38 2025] qa logged in
+[Thu Oct 30 19:40:40 2025] [ERROR] Accept failed: Resource temporarily unavailable
+[Thu Oct 30 19:40:43 2025] Timeout waiting for data from qa
+[Thu Oct 30 19:40:43 2025] qa disconnected
+[Thu Oct 30 19:40:45 2025] [ERROR] Accept failed: Resource temporarily unavailable
+[Thu Oct 30 19:40:50 2025] [ERROR] Accept failed: Resource temporarily unavailable
+[Thu Oct 30 19:40:55 2025] [ERROR] Accept failed: Resource temporarily unavailable
+[Thu Oct 30 19:41:00 2025] [ERROR] Accept failed: Resource temporarily unavailable
+[Thu Oct 30 19:41:05 2025] [ERROR] Accept failed: Resource temporarily unavailable
+[Thu Oct 30 19:41:10 2025] [ERROR] Accept failed: Resource temporarily unavailable
+[Thu Oct 30 19:41:16 2025] [ERROR] Accept failed: Resource temporarily unavailable
+[Thu Oct 30 19:41:21 2025] [ERROR] Accept failed: Resource temporarily unavailable
+[Thu Oct 30 19:41:26 2025] [ERROR] Accept failed: Resource temporarily unavailable
+[Thu Oct 30 19:41:29 2025] New client connected: socket 5
+[Thu Oct 30 19:41:33 2025] Login attempt: username=bob
+[Thu Oct 30 19:41:33 2025] bob logged in
+[Thu Oct 30 19:41:34 2025] [ERROR] Accept failed: Resource temporarily unavailable
+[Thu Oct 30 19:41:38 2025] Timeout waiting for data from bob
+[Thu Oct 30 19:41:38 2025] bob disconnected
+[Thu Oct 30 19:41:39 2025] [ERROR] Accept failed: Resource temporarily unavailable
+[Thu Oct 30 19:41:44 2025] [ERROR] Accept failed: Resource temporarily unavailable
+[Thu Oct 30 19:41:50 2025] [ERROR] Accept failed: Resource temporarily unavailable
+[Thu Oct 30 19:41:55 2025] [ERROR] Accept failed: Resource temporarily unavailable
+[Thu Oct 30 19:42:00 2025] [ERROR] Accept failed: Resource temporarily unavailable
+[Thu Oct 30 19:42:05 2025] [ERROR] Accept failed: Resource temporarily unavailable
+[Thu Oct 30 19:42:10 2025] [ERROR] Accept failed: Resource temporarily unavailable
+[Thu Oct 30 19:42:15 2025] [ERROR] Accept failed: Resource temporarily unavailable
+[Thu Oct 30 19:42:20 2025] [ERROR] Accept failed: Resource temporarily unavailable
+[Thu Oct 30 19:42:25 2025] [ERROR] Accept failed: Resource temporarily unavailable
+[Thu Oct 30 19:42:31 2025] [ERROR] Accept failed: Resource temporarily unavailable
+[Thu Oct 30 19:42:36 2025] [ERROR] Accept failed: Resource temporarily unavailable
+[Thu Oct 30 19:42:41 2025] [ERROR] Accept failed: Resource temporarily unavailable
+[Thu Oct 30 19:42:46 2025] [ERROR] Accept failed: Resource temporarily unavailable
+[Thu Oct 30 19:42:51 2025] [ERROR] Accept failed: Resource temporarily unavailable
+[Thu Oct 30 19:42:56 2025] [ERROR] Accept failed: Resource temporarily unavailable
+[Thu Oct 30 19:43:01 2025] [ERROR] Accept failed: Resource temporarily unavailable
+[Thu Oct 30 19:43:06 2025] [ERROR] Accept failed: Resource temporarily unavailable
+[Thu Oct 30 19:43:11 2025] [ERROR] Accept failed: Resource temporarily unavailable
+[Thu Oct 30 19:43:17 2025] [ERROR] Accept failed: Resource temporarily unavailable
+[Thu Oct 30 19:43:22 2025] [ERROR] Accept failed: Resource temporarily unavailable
+[Thu Oct 30 19:43:27 2025] [ERROR] Accept failed: Resource temporarily unavailable
+[Thu Oct 30 19:43:32 2025] [ERROR] Accept failed: Resource temporarily unavailable
+[Thu Oct 30 19:43:37 2025] [ERROR] Accept failed: Resource temporarily unavailable
+[Thu Oct 30 19:43:42 2025] [ERROR] Accept failed: Resource temporarily unavailable
+[Thu Oct 30 19:43:47 2025] [ERROR] Accept failed: Resource temporarily unavailable
+[Thu Oct 30 19:43:52 2025] [ERROR] Accept failed: Resource temporarily unavailable
+[Thu Oct 30 19:43:58 2025] [ERROR] Accept failed: Resource temporarily unavailable
+[Thu Oct 30 19:44:03 2025] [ERROR] Accept failed: Resource temporarily unavailable
+[Thu Oct 30 19:44:08 2025] [ERROR] Accept failed: Resource temporarily unavailable
+[Thu Oct 30 19:44:13 2025] [ERROR] Accept failed: Resource temporarily unavailable
+[Thu Oct 30 19:44:18 2025] [ERROR] Accept failed: Resource temporarily unavailable
+[Thu Oct 30 19:44:23 2025] [ERROR] Accept failed: Resource temporarily unavailable
+[Thu Oct 30 19:44:28 2025] [ERROR] Accept failed: Resource temporarily unavailable
+[Thu Oct 30 19:44:33 2025] [ERROR] Accept failed: Resource temporarily unavailable
+[Thu Oct 30 19:44:39 2025] [ERROR] Accept failed: Resource temporarily unavailable
+[Thu Oct 30 19:44:44 2025] [ERROR] Accept failed: Resource temporarily unavailable
+[Thu Oct 30 19:44:49 2025] [ERROR] Accept failed: Resource temporarily unavailable
+[Thu Oct 30 19:44:54 2025] [ERROR] Accept failed: Resource temporarily unavailable
+[Thu Oct 30 19:44:59 2025] [ERROR] Accept failed: Resource temporarily unavailable
+[Thu Oct 30 19:45:23 2025] Server started
+[Thu Oct 30 19:45:23 2025] Server listening on port 8080
+[Thu Oct 30 19:45:28 2025] [ERROR] Accept failed: Resource temporarily unavailable
+[Thu Oct 30 19:45:33 2025] New client connected: socket 5
+[Thu Oct 30 19:45:37 2025] Login attempt: username=qa
+[Thu Oct 30 19:45:37 2025] qa logged in
+[Thu Oct 30 19:45:37 2025] Received from qa: /ping
+[Thu Oct 30 19:45:37 2025] Parsed command from qa: target=ping, msg=''
+[Thu Oct 30 19:45:38 2025] [ERROR] Accept failed: Resource temporarily unavailable
+[Thu Oct 30 19:45:42 2025] Timeout waiting for data from qa
+[Thu Oct 30 19:45:42 2025] qa disconnected
+[Thu Oct 30 19:45:43 2025] [ERROR] Accept failed: Resource temporarily unavailable
+[Thu Oct 30 19:45:48 2025] [ERROR] Accept failed: Resource temporarily unavailable
+[Thu Oct 30 19:45:54 2025] [ERROR] Accept failed: Resource temporarily unavailable
+[Thu Oct 30 19:45:59 2025] [ERROR] Accept failed: Resource temporarily unavailable
+[Thu Oct 30 19:46:04 2025] [ERROR] Accept failed: Resource temporarily unavailable
+[Thu Oct 30 19:54:48 2025] Server started
+[Thu Oct 30 19:54:48 2025] Server listening on port 8080
+[Thu Oct 30 19:55:02 2025] New client connected: socket 5
+[Thu Oct 30 19:55:05 2025] Login attempt: username=qa
+[Thu Oct 30 19:55:05 2025] qa logged in
+[Thu Oct 30 19:55:13 2025] New client connected: socket 6
+[Thu Oct 30 19:55:15 2025] Login attempt: username=bob
+[Thu Oct 30 19:55:15 2025] bob logged in
+[Thu Oct 30 19:55:22 2025] Received from bob: /qa hij
+[Thu Oct 30 19:55:22 2025] Parsed command from bob: target=qa, msg='hij'
+[Thu Oct 30 19:55:22 2025] Sending private message to qa: hij
+[Thu Oct 30 19:55:22 2025] Saved conversation to conversation/conversation_bob_qa.txt: bob: hij
+[Thu Oct 30 19:55:22 2025] bob → qa: hij
+[Thu Oct 30 19:55:27 2025] Received from qa: /bob ok
+[Thu Oct 30 19:55:27 2025] Parsed command from qa: target=bob, msg='ok'
+[Thu Oct 30 19:55:27 2025] Sending private message to bob: ok
+[Thu Oct 30 19:55:27 2025] Saved conversation to conversation/conversation_bob_qa.txt: qa: ok
+[Thu Oct 30 19:55:27 2025] qa → bob: ok
+[Thu Oct 30 19:55:36 2025] Received from qa: |bob
+[Thu Oct 30 19:55:36 2025] Fetching conversation history for bob
+[Thu Oct 30 19:55:36 2025] Attempting to read conversation file: conversation/conversation_bob_qa.txt
+[Thu Oct 30 19:55:36 2025] Sending history line: [Thu Oct 30 14:49:51 2025] qa: hiu
+[Thu Oct 30 19:55:36 2025] Sending history line: [Thu Oct 30 14:49:55 2025] bob: oi
+[Thu Oct 30 19:55:36 2025] Sending history line: [Thu Oct 30 19:55:22 2025] bob: hij
+[Thu Oct 30 19:55:36 2025] Sending history line: [Thu Oct 30 19:55:27 2025] qa: ok
+[Thu Oct 30 19:55:36 2025] Sent conversation history for bob to socket 5 (lines sent: 4)
+[Thu Oct 30 19:55:49 2025] Received from qa: /groups
+[Thu Oct 30 19:55:53 2025] Received from qa: /users
+[Thu Oct 30 20:00:51 2025] Conversation directory created or exists
+[Thu Oct 30 20:00:51 2025] Loaded 6 users from user.txt
+[Thu Oct 30 20:00:51 2025] Loaded 5 groups from group.txt
+[Thu Oct 30 20:00:51 2025] Server started
+[Thu Oct 30 20:00:51 2025] Server listening on port 8080
+[Thu Oct 30 20:00:59 2025] New client connected: socket 6
+[Thu Oct 30 20:01:05 2025] Login attempt: username=qa
+[Thu Oct 30 20:01:05 2025] qa logged in
+[Thu Oct 30 20:01:10 2025] Received from qa: |bob
+[Thu Oct 30 20:01:10 2025] Fetching conversation history for bob
+[Thu Oct 30 20:01:10 2025] Attempting to read conversation file: conversation/conversation_bob_qa.txt
+[Thu Oct 30 20:01:10 2025] Sending history line: [Thu Oct 30 14:49:51 2025] qa: hiu
+[Thu Oct 30 20:01:10 2025] Sending history line: [Thu Oct 30 14:49:55 2025] bob: oi
+[Thu Oct 30 20:01:10 2025] Sending history line: [Thu Oct 30 19:55:22 2025] bob: hij
+[Thu Oct 30 20:01:10 2025] Sending history line: [Thu Oct 30 19:55:27 2025] qa: ok
+[Thu Oct 30 20:01:10 2025] Sent conversation history for bob to socket 6 (lines sent: 4)
+[Thu Oct 30 20:01:17 2025] Received from qa: /bob ok bob
+[Thu Oct 30 20:01:17 2025] Parsed command from qa: target=bob, msg='ok bob'
+[Thu Oct 30 20:01:17 2025] Invalid target: bob
+[Thu Oct 30 20:01:31 2025] New client connected: socket 7
+[Thu Oct 30 20:01:33 2025] Login attempt: username=bob
+[Thu Oct 30 20:01:33 2025] bob logged in
+[Thu Oct 30 20:01:35 2025] Received from bob: |qa
+[Thu Oct 30 20:01:35 2025] Fetching conversation history for qa
+[Thu Oct 30 20:01:35 2025] Attempting to read conversation file: conversation/conversation_bob_qa.txt
+[Thu Oct 30 20:01:35 2025] Sending history line: [Thu Oct 30 14:49:51 2025] qa: hiu
+[Thu Oct 30 20:01:35 2025] Sending history line: [Thu Oct 30 14:49:55 2025] bob: oi
+[Thu Oct 30 20:01:35 2025] Sending history line: [Thu Oct 30 19:55:22 2025] bob: hij
+[Thu Oct 30 20:01:35 2025] Sending history line: [Thu Oct 30 19:55:27 2025] qa: ok
+[Thu Oct 30 20:01:35 2025] Sent conversation history for qa to socket 7 (lines sent: 4)
+[Thu Oct 30 20:01:39 2025] Received from bob: /qa ok qanh
+[Thu Oct 30 20:01:39 2025] Parsed command from bob: target=qa, msg='ok qanh'
+[Thu Oct 30 20:01:39 2025] Sending private message to qa: ok qanh
+[Thu Oct 30 20:01:39 2025] Saved conversation to conversation/conversation_bob_qa.txt: bob: ok qanh
+[Thu Oct 30 20:01:39 2025] bob → qa: ok qanh
+[Thu Oct 30 20:01:50 2025] bob disconnected: Connection closed
+[Thu Oct 30 20:01:50 2025] bob disconnected
+[Thu Oct 30 20:03:51 2025] Conversation directory created or exists
+[Thu Oct 30 20:03:51 2025] Loaded 6 users from user.txt
+[Thu Oct 30 20:03:51 2025] Loaded 5 groups from group.txt
+[Thu Oct 30 20:03:51 2025] Server started
+[Thu Oct 30 20:03:51 2025] Server listening on port 8080
+[Thu Oct 30 20:03:57 2025] New client connected: socket 6
+[Thu Oct 30 20:04:01 2025] Login attempt: username=bob
+[Thu Oct 30 20:04:01 2025] bob logged in
+[Thu Oct 30 20:04:09 2025] New client connected: socket 7
+[Thu Oct 30 20:04:11 2025] Login attempt: username=qa
+[Thu Oct 30 20:04:11 2025] qa logged in
+[Thu Oct 30 20:04:24 2025] New client connected: socket 8
+[Thu Oct 30 20:04:27 2025] Login attempt: username=eva
+[Thu Oct 30 20:04:27 2025] eva logged in
+[Thu Oct 30 20:04:35 2025] Received from qa: /bob ok
+[Thu Oct 30 20:04:35 2025] Parsed command from qa: target=bob, msg='ok'
+[Thu Oct 30 20:04:35 2025] Sending private message to bob: ok
+[Thu Oct 30 20:04:35 2025] Saved conversation to conversation/conversation_bob_qa.txt: qa: ok
+[Thu Oct 30 20:04:35 2025] qa → bob: ok
+[Thu Oct 30 20:04:52 2025] Received from bob: |qa
+[Thu Oct 30 20:04:52 2025] Fetching conversation history for qa
+[Thu Oct 30 20:04:52 2025] Attempting to read conversation file: conversation/conversation_bob_qa.txt
+[Thu Oct 30 20:04:52 2025] Sending history line: [Thu Oct 30 14:49:51 2025] qa: hiu
+[Thu Oct 30 20:04:52 2025] Sending history line: [Thu Oct 30 14:49:55 2025] bob: oi
+[Thu Oct 30 20:04:52 2025] Sending history line: [Thu Oct 30 19:55:22 2025] bob: hij
+[Thu Oct 30 20:04:52 2025] Sending history line: [Thu Oct 30 19:55:27 2025] qa: ok
+[Thu Oct 30 20:04:52 2025] Sending history line: [Thu Oct 30 20:01:39 2025] bob: ok qanh
+[Thu Oct 30 20:04:52 2025] Sending history line: [Thu Oct 30 20:04:35 2025] qa: ok
+[Thu Oct 30 20:04:52 2025] Sent conversation history for qa to socket 6 (lines sent: 6)
+[Thu Oct 30 20:05:24 2025] Received from bob: /groups
+[Thu Oct 30 20:05:32 2025] Received from bob: /group4 hello bro
+[Thu Oct 30 20:05:32 2025] Parsed command from bob: target=group4, msg='hello bro'
+[Thu Oct 30 20:05:32 2025] Sending group message to group4: hello bro
+[Thu Oct 30 20:05:32 2025] Saved conversation to conversation/conversation_group4.txt: bob: hello bro
+[Thu Oct 30 20:05:32 2025] bob → GROUP group4: hello bro
+[Thu Oct 30 20:05:46 2025] Received from qa: |group4
+[Thu Oct 30 20:05:46 2025] Fetching conversation history for group4
+[Thu Oct 30 20:05:46 2025] Attempting to read conversation file: conversation/conversation_group4.txt
+[Thu Oct 30 20:05:46 2025] Sending history line: [Thu Oct 30 20:05:32 2025] bob: hello bro
+[Thu Oct 30 20:05:46 2025] Sent conversation history for group4 to socket 7 (lines sent: 1)
+[Thu Oct 30 20:57:39 2025] Received from eva: /qa
+[Thu Oct 30 20:57:39 2025] Parsed command from eva: target=qa, msg=''
+[Thu Oct 30 20:57:57 2025] Conversation directory created or exists
+[Thu Oct 30 20:57:57 2025] Loaded 6 users from user.txt
+[Thu Oct 30 20:57:57 2025] Loaded 5 groups from group.txt
+[Thu Oct 30 20:57:57 2025] Server started
+[Thu Oct 30 20:57:57 2025] Server listening on port 8080
+[Thu Oct 30 20:58:00 2025] New client connected: socket 6
+[Thu Oct 30 20:58:03 2025] Login attempt: username=qa
+[Thu Oct 30 20:58:03 2025] qa logged in
+[Thu Oct 30 20:58:26 2025] New client connected: socket 7
+[Thu Oct 30 20:58:27 2025] Login attempt: username=eva
+[Thu Oct 30 20:58:27 2025] eva logged in
+[Thu Oct 30 20:58:30 2025] Received from eva: /qa 123
+[Thu Oct 30 20:58:30 2025] Parsed command from eva: target=qa, msg='123'
+[Thu Oct 30 20:58:30 2025] Sending private message to qa: 123
+[Thu Oct 30 20:58:30 2025] Saved conversation to conversation/conversation_eva_qa.txt: eva: 123
+[Thu Oct 30 20:58:30 2025] eva → qa: 123

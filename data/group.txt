@@ -1,0 +1,5 @@
+group1:Friends_Chat:alice,bob,charlie
+group2:QA_Team:david,eva,qa
+group3:Project_Alpha:alice,david,eva
+group4:Study_Group:bob,charlie,qa
+group5:Core_Team:alice,bob,david,eva
