@@ -4,15 +4,18 @@ BINDIR = build
 SRCDIR = src
 INCLUDEDIR = include
 
-all: $(BINDIR)/socket_server $(BINDIR)/socket_client
+all: $(BINDIR)/shm_server $(BINDIR)/shm_client
 
-$(BINDIR)/socket_server: $(SRCDIR)/socket_server.c $(SRCDIR)/server_utils.c
+$(BINDIR)/shm_server: $(SRCDIR)/shm_server.c $(SRCDIR)/shm_utils.c
 	@mkdir -p $(BINDIR)
-	$(CC) $(CFLAGS) -I$(INCLUDEDIR) $^ -o $@
+	$(CC) $(CFLAGS) -I$(INCLUDEDIR) $^ -o $@ -lrt
 
-$(BINDIR)/socket_client: $(SRCDIR)/socket_client.c $(SRCDIR)/client_utils.c
+$(BINDIR)/shm_client: $(SRCDIR)/shm_client.c $(SRCDIR)/shm_utils.c
 	@mkdir -p $(BINDIR)
-	$(CC) $(CFLAGS) -I$(INCLUDEDIR) $^ -o $@
+	$(CC) $(CFLAGS) -I$(INCLUDEDIR) $^ -o $@ -lrt
 
 clean:
 	rm -rf $(BINDIR)/*
+	rm -f /dev/shm/chat_shm
+
+.PHONY: all clean

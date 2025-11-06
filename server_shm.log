@@ -1,0 +1,1708 @@
+[Fri Oct 31 23:05:40 2025] Conversation directory created or exists
+[Fri Oct 31 23:05:40 2025] Loaded 6 users from user.txt
+[Fri Oct 31 23:05:40 2025] Loaded 5 groups from group.txt
+[Fri Oct 31 23:05:40 2025] Server started
+[Fri Oct 31 23:05:40 2025] Shared memory initialized
+[Fri Oct 31 23:05:40 2025] Client 1 connected
+[Fri Oct 31 23:05:40 2025] Client 6 connected
+[Fri Oct 31 23:05:40 2025] Client 7 connected
+[Fri Oct 31 23:05:40 2025] Client 8 connected
+[Fri Oct 31 23:05:40 2025] Client 11 connected
+[Fri Oct 31 23:05:40 2025] Client 9 connected
+[Fri Oct 31 23:05:40 2025] Client 17 connected
+[Fri Oct 31 23:05:40 2025] Client 15 connected
+[Fri Oct 31 23:05:40 2025] Client 16 connected
+[Fri Oct 31 23:05:40 2025] Client 5 connected
+[Fri Oct 31 23:05:40 2025] Client 10 connected
+[Fri Oct 31 23:05:40 2025] Client 2 connected
+[Fri Oct 31 23:05:40 2025] Client 3 connected
+[Fri Oct 31 23:05:40 2025] Client 13 connected
+[Fri Oct 31 23:05:40 2025] Client 12 connected
+[Fri Oct 31 23:05:40 2025] Client 22 connected
+[Fri Oct 31 23:05:40 2025] Client 24 connected
+[Fri Oct 31 23:05:40 2025] Client 27 connected
+[Fri Oct 31 23:05:40 2025] Client 28 connected
+[Fri Oct 31 23:05:40 2025] Client 29 connected
+[Fri Oct 31 23:05:40 2025] Client 31 connected
+[Fri Oct 31 23:05:40 2025] Client 33 connected
+[Fri Oct 31 23:05:40 2025] Client 34 connected
+[Fri Oct 31 23:05:40 2025] Client 37 connected
+[Fri Oct 31 23:05:40 2025] Client 39 connected
+[Fri Oct 31 23:05:40 2025] Client 41 connected
+[Fri Oct 31 23:05:40 2025] Client 45 connected
+[Fri Oct 31 23:05:40 2025] Client 46 connected
+[Fri Oct 31 23:05:40 2025] Client 48 connected
+[Fri Oct 31 23:05:40 2025] Client 51 connected
+[Fri Oct 31 23:05:40 2025] Client 52 connected
+[Fri Oct 31 23:05:40 2025] Client 56 connected
+[Fri Oct 31 23:05:40 2025] Client 64 connected
+[Fri Oct 31 23:05:40 2025] Client 65 connected
+[Fri Oct 31 23:05:40 2025] Client 0 connected
+[Fri Oct 31 23:05:40 2025] Client 30 connected
+[Fri Oct 31 23:05:40 2025] Client 25 connected
+[Fri Oct 31 23:05:40 2025] Client 20 connected
+[Fri Oct 31 23:05:40 2025] Client 32 connected
+[Fri Oct 31 23:05:40 2025] Client 23 connected
+[Fri Oct 31 23:05:40 2025] Client 26 connected
+[Fri Oct 31 23:05:40 2025] Client 19 connected
+[Fri Oct 31 23:05:40 2025] Client 18 connected
+[Fri Oct 31 23:05:40 2025] Client 60 connected
+[Fri Oct 31 23:05:40 2025] Client 35 connected
+[Fri Oct 31 23:05:40 2025] Client 21 connected
+[Fri Oct 31 23:05:40 2025] Client 36 connected
+[Fri Oct 31 23:05:40 2025] Client 38 connected
+[Fri Oct 31 23:05:40 2025] Client 42 connected
+[Fri Oct 31 23:05:40 2025] Client 47 connected
+[Fri Oct 31 23:05:40 2025] Client 49 connected
+[Fri Oct 31 23:05:40 2025] Client 50 connected
+[Fri Oct 31 23:05:40 2025] Client 53 connected
+[Fri Oct 31 23:05:40 2025] Client 40 connected
+[Fri Oct 31 23:05:40 2025] Client 58 connected
+[Fri Oct 31 23:05:40 2025] Client 44 connected
+[Fri Oct 31 23:05:40 2025] Client 57 connected
+[Fri Oct 31 23:05:40 2025] Client 54 connected
+[Fri Oct 31 23:05:40 2025] Client 55 connected
+[Fri Oct 31 23:05:40 2025] Client 66 connected
+[Fri Oct 31 23:05:40 2025] Client 14 connected
+[Fri Oct 31 23:05:40 2025] Client 4 connected
+[Fri Oct 31 23:05:40 2025] Client 67 connected
+[Fri Oct 31 23:05:40 2025] Client 43 connected
+[Fri Oct 31 23:05:40 2025] Client 62 connected
+[Fri Oct 31 23:05:40 2025] Client 61 connected
+[Fri Oct 31 23:05:40 2025] Client 59 connected
+[Fri Oct 31 23:05:40 2025] Client 68 connected
+[Fri Oct 31 23:05:40 2025] Client 63 connected
+[Fri Oct 31 23:05:40 2025] Client 69 connected
+[Fri Oct 31 23:05:40 2025] Client 70 connected
+[Fri Oct 31 23:05:40 2025] Client 71 connected
+[Fri Oct 31 23:05:40 2025] Client 72 connected
+[Fri Oct 31 23:05:40 2025] Client 73 connected
+[Fri Oct 31 23:05:40 2025] Client 74 connected
+[Fri Oct 31 23:05:40 2025] Client 76 connected
+[Fri Oct 31 23:05:40 2025] Client 77 connected
+[Fri Oct 31 23:05:40 2025] Client 78 connected
+[Fri Oct 31 23:05:40 2025] Client 79 connected
+[Fri Oct 31 23:05:40 2025] Client 80 connected
+[Fri Oct 31 23:05:40 2025] Client 81 connected
+[Fri Oct 31 23:05:40 2025] Client 82 connected
+[Fri Oct 31 23:05:40 2025] Client 83 connected
+[Fri Oct 31 23:05:40 2025] Client 84 connected
+[Fri Oct 31 23:05:40 2025] Client 85 connected
+[Fri Oct 31 23:05:40 2025] Client 86 connected
+[Fri Oct 31 23:05:40 2025] Client 87 connected
+[Fri Oct 31 23:05:40 2025] Client 88 connected
+[Fri Oct 31 23:05:40 2025] Client 89 connected
+[Fri Oct 31 23:05:40 2025] Client 90 connected
+[Fri Oct 31 23:05:40 2025] Client 91 connected
+[Fri Oct 31 23:05:40 2025] Client 92 connected
+[Fri Oct 31 23:05:40 2025] Client 93 connected
+[Fri Oct 31 23:05:40 2025] Client 94 connected
+[Fri Oct 31 23:05:40 2025] Client 96 connected
+[Fri Oct 31 23:05:40 2025] Client 95 connected
+[Fri Oct 31 23:05:40 2025] Client 97 connected
+[Fri Oct 31 23:05:40 2025] Client 98 connected
+[Fri Oct 31 23:05:40 2025] Client 75 connected
+[Fri Oct 31 23:05:40 2025] Client 99 connected
+[Sat Nov  1 10:53:11 2025] Server shutting down...
+[Sat Nov  1 10:53:48 2025] Conversation directory created or exists
+[Sat Nov  1 10:53:48 2025] Loaded 6 users from user.txt
+[Sat Nov  1 10:53:48 2025] Loaded 5 groups from group.txt
+[Sat Nov  1 10:53:48 2025] Server started
+[Sat Nov  1 10:53:48 2025] Shared memory initialized
+[Sat Nov  1 10:53:48 2025] Monitoring client slot 1
+[Sat Nov  1 10:53:48 2025] Monitoring client slot 3
+[Sat Nov  1 10:53:48 2025] Monitoring client slot 4
+[Sat Nov  1 10:53:48 2025] Monitoring client slot 5
+[Sat Nov  1 10:53:48 2025] Monitoring client slot 6
+[Sat Nov  1 10:53:48 2025] Monitoring client slot 7
+[Sat Nov  1 10:53:48 2025] Monitoring client slot 8
+[Sat Nov  1 10:53:48 2025] Monitoring client slot 9
+[Sat Nov  1 10:53:48 2025] Monitoring client slot 11
+[Sat Nov  1 10:53:48 2025] Monitoring client slot 17
+[Sat Nov  1 10:53:48 2025] Monitoring client slot 22
+[Sat Nov  1 10:53:48 2025] Monitoring client slot 23
+[Sat Nov  1 10:53:48 2025] Monitoring client slot 28
+[Sat Nov  1 10:53:48 2025] Monitoring client slot 29
+[Sat Nov  1 10:53:48 2025] Monitoring client slot 45
+[Sat Nov  1 10:53:48 2025] Monitoring client slot 47
+[Sat Nov  1 10:53:48 2025] Monitoring client slot 52
+[Sat Nov  1 10:53:48 2025] Monitoring client slot 59
+[Sat Nov  1 10:53:48 2025] Monitoring client slot 63
+[Sat Nov  1 10:53:48 2025] Monitoring client slot 80
+[Sat Nov  1 10:53:48 2025] Monitoring client slot 99
+[Sat Nov  1 10:53:48 2025] Monitoring client slot 31
+[Sat Nov  1 10:53:48 2025] Monitoring client slot 32
+[Sat Nov  1 10:53:48 2025] Monitoring client slot 33
+[Sat Nov  1 10:53:48 2025] Monitoring client slot 13
+[Sat Nov  1 10:53:48 2025] Monitoring client slot 36
+[Sat Nov  1 10:53:48 2025] Monitoring client slot 15
+[Sat Nov  1 10:53:48 2025] Monitoring client slot 38
+[Sat Nov  1 10:53:48 2025] Monitoring client slot 16
+[Sat Nov  1 10:53:48 2025] Monitoring client slot 39
+[Sat Nov  1 10:53:48 2025] Monitoring client slot 18
+[Sat Nov  1 10:53:48 2025] Monitoring client slot 40
+[Sat Nov  1 10:53:48 2025] Monitoring client slot 19
+[Sat Nov  1 10:53:48 2025] Monitoring client slot 42
+[Sat Nov  1 10:53:48 2025] Monitoring client slot 20
+[Sat Nov  1 10:53:48 2025] Monitoring client slot 43
+[Sat Nov  1 10:53:48 2025] Monitoring client slot 21
+[Sat Nov  1 10:53:48 2025] Monitoring client slot 44
+[Sat Nov  1 10:53:48 2025] Monitoring client slot 24
+[Sat Nov  1 10:53:48 2025] Monitoring client slot 46
+[Sat Nov  1 10:53:48 2025] Monitoring client slot 30
+[Sat Nov  1 10:53:48 2025] Monitoring client slot 48
+[Sat Nov  1 10:53:48 2025] Monitoring client slot 25
+[Sat Nov  1 10:53:48 2025] Monitoring client slot 49
+[Sat Nov  1 10:53:48 2025] Monitoring client slot 35
+[Sat Nov  1 10:53:48 2025] Monitoring client slot 34
+[Sat Nov  1 10:53:48 2025] Monitoring client slot 50
+[Sat Nov  1 10:53:48 2025] Monitoring client slot 26
+[Sat Nov  1 10:53:48 2025] Monitoring client slot 37
+[Sat Nov  1 10:53:48 2025] Monitoring client slot 41
+[Sat Nov  1 10:53:48 2025] Monitoring client slot 51
+[Sat Nov  1 10:53:48 2025] Monitoring client slot 54
+[Sat Nov  1 10:53:48 2025] Monitoring client slot 55
+[Sat Nov  1 10:53:48 2025] Monitoring client slot 56
+[Sat Nov  1 10:53:48 2025] Monitoring client slot 61
+[Sat Nov  1 10:53:48 2025] Monitoring client slot 57
+[Sat Nov  1 10:53:48 2025] Monitoring client slot 83
+[Sat Nov  1 10:53:48 2025] Monitoring client slot 81
+[Sat Nov  1 10:53:48 2025] Monitoring client slot 85
+[Sat Nov  1 10:53:48 2025] Monitoring client slot 62
+[Sat Nov  1 10:53:48 2025] Monitoring client slot 93
+[Sat Nov  1 10:53:48 2025] Monitoring client slot 66
+[Sat Nov  1 10:53:48 2025] Monitoring client slot 94
+[Sat Nov  1 10:53:48 2025] Monitoring client slot 72
+[Sat Nov  1 10:53:48 2025] Monitoring client slot 96
+[Sat Nov  1 10:53:48 2025] Monitoring client slot 68
+[Sat Nov  1 10:53:48 2025] Monitoring client slot 89
+[Sat Nov  1 10:53:48 2025] Monitoring client slot 65
+[Sat Nov  1 10:53:48 2025] Monitoring client slot 90
+[Sat Nov  1 10:53:48 2025] Monitoring client slot 74
+[Sat Nov  1 10:53:48 2025] Monitoring client slot 97
+[Sat Nov  1 10:53:48 2025] Monitoring client slot 77
+[Sat Nov  1 10:53:48 2025] Monitoring client slot 91
+[Sat Nov  1 10:53:48 2025] Monitoring client slot 75
+[Sat Nov  1 10:53:48 2025] Monitoring client slot 87
+[Sat Nov  1 10:53:48 2025] Monitoring client slot 58
+[Sat Nov  1 10:53:48 2025] Monitoring client slot 86
+[Sat Nov  1 10:53:48 2025] Monitoring client slot 95
+[Sat Nov  1 10:53:48 2025] Monitoring client slot 79
+[Sat Nov  1 10:53:48 2025] Monitoring client slot 82
+[Sat Nov  1 10:53:48 2025] Monitoring client slot 92
+[Sat Nov  1 10:53:48 2025] Monitoring client slot 98
+[Sat Nov  1 10:53:48 2025] Monitoring client slot 67
+[Sat Nov  1 10:53:48 2025] Monitoring client slot 69
+[Sat Nov  1 10:53:48 2025] Monitoring client slot 84
+[Sat Nov  1 10:53:48 2025] Monitoring client slot 88
+[Sat Nov  1 10:53:48 2025] Monitoring client slot 73
+[Sat Nov  1 10:53:48 2025] Monitoring client slot 70
+[Sat Nov  1 10:53:48 2025] Monitoring client slot 60
+[Sat Nov  1 10:53:48 2025] Monitoring client slot 76
+[Sat Nov  1 10:53:48 2025] Monitoring client slot 71
+[Sat Nov  1 10:53:48 2025] Monitoring client slot 78
+[Sat Nov  1 10:53:48 2025] Monitoring client slot 64
+[Sat Nov  1 10:53:48 2025] Monitoring client slot 0
+[Sat Nov  1 10:53:48 2025] Monitoring client slot 2
+[Sat Nov  1 10:53:48 2025] Monitoring client slot 14
+[Sat Nov  1 10:53:48 2025] Monitoring client slot 12
+[Sat Nov  1 10:53:48 2025] Monitoring client slot 27
+[Sat Nov  1 10:53:48 2025] Monitoring client slot 53
+[Sat Nov  1 10:53:48 2025] Monitoring client slot 10
+[Sat Nov  1 10:59:21 2025] Conversation directory created or exists
+[Sat Nov  1 10:59:21 2025] Loaded 6 users from user.txt
+[Sat Nov  1 10:59:21 2025] Loaded 5 groups from group.txt
+[Sat Nov  1 10:59:21 2025] Server started
+[Sat Nov  1 10:59:21 2025] Shared memory initialized
+[Sat Nov  1 10:59:21 2025] Monitoring client slot 1
+[Sat Nov  1 10:59:21 2025] Monitoring client slot 2
+[Sat Nov  1 10:59:21 2025] Monitoring client slot 3
+[Sat Nov  1 10:59:21 2025] Monitoring client slot 8
+[Sat Nov  1 10:59:21 2025] Monitoring client slot 9
+[Sat Nov  1 10:59:21 2025] Monitoring client slot 11
+[Sat Nov  1 10:59:21 2025] Monitoring client slot 13
+[Sat Nov  1 10:59:21 2025] Monitoring client slot 14
+[Sat Nov  1 10:59:21 2025] Monitoring client slot 15
+[Sat Nov  1 10:59:21 2025] Monitoring client slot 16
+[Sat Nov  1 10:59:21 2025] Monitoring client slot 17
+[Sat Nov  1 10:59:21 2025] Monitoring client slot 6
+[Sat Nov  1 10:59:21 2025] Monitoring client slot 4
+[Sat Nov  1 10:59:21 2025] Monitoring client slot 10
+[Sat Nov  1 10:59:21 2025] Monitoring client slot 7
+[Sat Nov  1 10:59:21 2025] Monitoring client slot 18
+[Sat Nov  1 10:59:21 2025] Monitoring client slot 12
+[Sat Nov  1 10:59:21 2025] Monitoring client slot 19
+[Sat Nov  1 10:59:21 2025] Monitoring client slot 20
+[Sat Nov  1 10:59:21 2025] Monitoring client slot 21
+[Sat Nov  1 10:59:21 2025] Monitoring client slot 22
+[Sat Nov  1 10:59:21 2025] Monitoring client slot 23
+[Sat Nov  1 10:59:21 2025] Monitoring client slot 24
+[Sat Nov  1 10:59:21 2025] Monitoring client slot 25
+[Sat Nov  1 10:59:21 2025] Monitoring client slot 26
+[Sat Nov  1 10:59:21 2025] Monitoring client slot 27
+[Sat Nov  1 10:59:21 2025] Monitoring client slot 28
+[Sat Nov  1 10:59:21 2025] Monitoring client slot 5
+[Sat Nov  1 10:59:21 2025] Monitoring client slot 29
+[Sat Nov  1 10:59:21 2025] Monitoring client slot 30
+[Sat Nov  1 10:59:21 2025] Monitoring client slot 31
+[Sat Nov  1 10:59:21 2025] Monitoring client slot 32
+[Sat Nov  1 10:59:21 2025] Monitoring client slot 33
+[Sat Nov  1 10:59:21 2025] Monitoring client slot 34
+[Sat Nov  1 10:59:21 2025] Monitoring client slot 35
+[Sat Nov  1 10:59:21 2025] Monitoring client slot 42
+[Sat Nov  1 10:59:21 2025] Monitoring client slot 43
+[Sat Nov  1 10:59:21 2025] Monitoring client slot 45
+[Sat Nov  1 10:59:21 2025] Monitoring client slot 37
+[Sat Nov  1 10:59:21 2025] Monitoring client slot 36
+[Sat Nov  1 10:59:21 2025] Monitoring client slot 0
+[Sat Nov  1 10:59:21 2025] Monitoring client slot 39
+[Sat Nov  1 10:59:21 2025] Monitoring client slot 40
+[Sat Nov  1 10:59:21 2025] Monitoring client slot 38
+[Sat Nov  1 10:59:21 2025] Monitoring client slot 46
+[Sat Nov  1 10:59:21 2025] Monitoring client slot 47
+[Sat Nov  1 10:59:21 2025] Monitoring client slot 44
+[Sat Nov  1 10:59:21 2025] Monitoring client slot 41
+[Sat Nov  1 10:59:21 2025] Monitoring client slot 49
+[Sat Nov  1 10:59:21 2025] Monitoring client slot 50
+[Sat Nov  1 10:59:21 2025] Monitoring client slot 51
+[Sat Nov  1 10:59:21 2025] Monitoring client slot 53
+[Sat Nov  1 10:59:21 2025] Monitoring client slot 54
+[Sat Nov  1 10:59:21 2025] Monitoring client slot 56
+[Sat Nov  1 10:59:21 2025] Monitoring client slot 57
+[Sat Nov  1 10:59:21 2025] Monitoring client slot 58
+[Sat Nov  1 10:59:21 2025] Monitoring client slot 60
+[Sat Nov  1 10:59:21 2025] Monitoring client slot 61
+[Sat Nov  1 10:59:21 2025] Monitoring client slot 63
+[Sat Nov  1 10:59:21 2025] Monitoring client slot 64
+[Sat Nov  1 10:59:21 2025] Monitoring client slot 65
+[Sat Nov  1 10:59:21 2025] Monitoring client slot 66
+[Sat Nov  1 10:59:21 2025] Monitoring client slot 67
+[Sat Nov  1 10:59:21 2025] Monitoring client slot 68
+[Sat Nov  1 10:59:21 2025] Monitoring client slot 69
+[Sat Nov  1 10:59:21 2025] Monitoring client slot 70
+[Sat Nov  1 10:59:21 2025] Monitoring client slot 71
+[Sat Nov  1 10:59:21 2025] Monitoring client slot 72
+[Sat Nov  1 10:59:21 2025] Monitoring client slot 73
+[Sat Nov  1 10:59:21 2025] Monitoring client slot 74
+[Sat Nov  1 10:59:21 2025] Monitoring client slot 75
+[Sat Nov  1 10:59:21 2025] Monitoring client slot 77
+[Sat Nov  1 10:59:21 2025] Monitoring client slot 79
+[Sat Nov  1 10:59:21 2025] Monitoring client slot 81
+[Sat Nov  1 10:59:21 2025] Monitoring client slot 48
+[Sat Nov  1 10:59:21 2025] Monitoring client slot 62
+[Sat Nov  1 10:59:21 2025] Monitoring client slot 59
+[Sat Nov  1 10:59:21 2025] Monitoring client slot 55
+[Sat Nov  1 10:59:21 2025] Monitoring client slot 52
+[Sat Nov  1 10:59:21 2025] Monitoring client slot 82
+[Sat Nov  1 10:59:21 2025] Monitoring client slot 83
+[Sat Nov  1 10:59:21 2025] Monitoring client slot 87
+[Sat Nov  1 10:59:21 2025] Monitoring client slot 88
+[Sat Nov  1 10:59:21 2025] Monitoring client slot 92
+[Sat Nov  1 10:59:21 2025] Monitoring client slot 93
+[Sat Nov  1 10:59:21 2025] Monitoring client slot 94
+[Sat Nov  1 10:59:21 2025] Monitoring client slot 80
+[Sat Nov  1 10:59:21 2025] Monitoring client slot 78
+[Sat Nov  1 10:59:21 2025] Monitoring client slot 90
+[Sat Nov  1 10:59:21 2025] Monitoring client slot 76
+[Sat Nov  1 10:59:21 2025] Monitoring client slot 91
+[Sat Nov  1 10:59:21 2025] Monitoring client slot 95
+[Sat Nov  1 10:59:21 2025] Monitoring client slot 89
+[Sat Nov  1 10:59:21 2025] Monitoring client slot 86
+[Sat Nov  1 10:59:21 2025] Monitoring client slot 96
+[Sat Nov  1 10:59:21 2025] Monitoring client slot 97
+[Sat Nov  1 10:59:21 2025] Monitoring client slot 98
+[Sat Nov  1 10:59:21 2025] Monitoring client slot 85
+[Sat Nov  1 10:59:21 2025] Monitoring client slot 99
+[Sat Nov  1 10:59:21 2025] Monitoring client slot 84
+[Sat Nov  1 10:59:41 2025] Server shutting down...
+[Sat Nov  1 10:59:54 2025] Conversation directory created or exists
+[Sat Nov  1 10:59:54 2025] Loaded 6 users from user.txt
+[Sat Nov  1 10:59:54 2025] Loaded 5 groups from group.txt
+[Sat Nov  1 10:59:54 2025] Server started
+[Sat Nov  1 10:59:54 2025] Shared memory initialized
+[Sat Nov  1 10:59:54 2025] Monitoring client slot 10
+[Sat Nov  1 10:59:54 2025] Monitoring client slot 11
+[Sat Nov  1 10:59:54 2025] Monitoring client slot 12
+[Sat Nov  1 10:59:54 2025] Monitoring client slot 13
+[Sat Nov  1 10:59:54 2025] Monitoring client slot 14
+[Sat Nov  1 10:59:54 2025] Monitoring client slot 15
+[Sat Nov  1 10:59:54 2025] Monitoring client slot 9
+[Sat Nov  1 10:59:54 2025] Monitoring client slot 1
+[Sat Nov  1 10:59:54 2025] Monitoring client slot 16
+[Sat Nov  1 10:59:54 2025] Monitoring client slot 18
+[Sat Nov  1 10:59:54 2025] Monitoring client slot 20
+[Sat Nov  1 10:59:54 2025] Monitoring client slot 21
+[Sat Nov  1 10:59:54 2025] Monitoring client slot 22
+[Sat Nov  1 10:59:54 2025] Monitoring client slot 23
+[Sat Nov  1 10:59:54 2025] Monitoring client slot 24
+[Sat Nov  1 10:59:54 2025] Monitoring client slot 25
+[Sat Nov  1 10:59:54 2025] Monitoring client slot 26
+[Sat Nov  1 10:59:54 2025] Monitoring client slot 27
+[Sat Nov  1 10:59:54 2025] Monitoring client slot 28
+[Sat Nov  1 10:59:54 2025] Monitoring client slot 29
+[Sat Nov  1 10:59:54 2025] Monitoring client slot 30
+[Sat Nov  1 10:59:54 2025] Monitoring client slot 31
+[Sat Nov  1 10:59:54 2025] Monitoring client slot 32
+[Sat Nov  1 10:59:54 2025] Monitoring client slot 33
+[Sat Nov  1 10:59:54 2025] Monitoring client slot 34
+[Sat Nov  1 10:59:54 2025] Monitoring client slot 35
+[Sat Nov  1 10:59:54 2025] Monitoring client slot 36
+[Sat Nov  1 10:59:54 2025] Monitoring client slot 37
+[Sat Nov  1 10:59:54 2025] Monitoring client slot 38
+[Sat Nov  1 10:59:54 2025] Monitoring client slot 39
+[Sat Nov  1 10:59:54 2025] Monitoring client slot 40
+[Sat Nov  1 10:59:54 2025] Monitoring client slot 41
+[Sat Nov  1 10:59:54 2025] Monitoring client slot 43
+[Sat Nov  1 10:59:54 2025] Monitoring client slot 46
+[Sat Nov  1 10:59:54 2025] Monitoring client slot 45
+[Sat Nov  1 10:59:54 2025] Monitoring client slot 3
+[Sat Nov  1 10:59:54 2025] Monitoring client slot 4
+[Sat Nov  1 10:59:54 2025] Monitoring client slot 6
+[Sat Nov  1 10:59:54 2025] Monitoring client slot 47
+[Sat Nov  1 10:59:54 2025] Monitoring client slot 7
+[Sat Nov  1 10:59:54 2025] Monitoring client slot 5
+[Sat Nov  1 10:59:54 2025] Monitoring client slot 2
+[Sat Nov  1 10:59:54 2025] Monitoring client slot 8
+[Sat Nov  1 10:59:54 2025] Monitoring client slot 17
+[Sat Nov  1 10:59:54 2025] Monitoring client slot 0
+[Sat Nov  1 10:59:54 2025] Monitoring client slot 53
+[Sat Nov  1 10:59:54 2025] Monitoring client slot 19
+[Sat Nov  1 10:59:54 2025] Monitoring client slot 42
+[Sat Nov  1 10:59:54 2025] Monitoring client slot 44
+[Sat Nov  1 10:59:54 2025] Monitoring client slot 48
+[Sat Nov  1 10:59:54 2025] Monitoring client slot 49
+[Sat Nov  1 10:59:54 2025] Monitoring client slot 50
+[Sat Nov  1 10:59:54 2025] Monitoring client slot 51
+[Sat Nov  1 10:59:54 2025] Monitoring client slot 52
+[Sat Nov  1 10:59:54 2025] Monitoring client slot 54
+[Sat Nov  1 10:59:54 2025] Monitoring client slot 55
+[Sat Nov  1 10:59:54 2025] Monitoring client slot 56
+[Sat Nov  1 10:59:54 2025] Monitoring client slot 57
+[Sat Nov  1 10:59:54 2025] Monitoring client slot 58
+[Sat Nov  1 10:59:54 2025] Monitoring client slot 59
+[Sat Nov  1 10:59:54 2025] Monitoring client slot 60
+[Sat Nov  1 10:59:54 2025] Monitoring client slot 61
+[Sat Nov  1 10:59:54 2025] Monitoring client slot 62
+[Sat Nov  1 10:59:54 2025] Monitoring client slot 63
+[Sat Nov  1 10:59:54 2025] Monitoring client slot 64
+[Sat Nov  1 10:59:54 2025] Monitoring client slot 65
+[Sat Nov  1 10:59:54 2025] Monitoring client slot 66
+[Sat Nov  1 10:59:54 2025] Monitoring client slot 67
+[Sat Nov  1 10:59:54 2025] Monitoring client slot 71
+[Sat Nov  1 10:59:54 2025] Monitoring client slot 72
+[Sat Nov  1 10:59:54 2025] Monitoring client slot 73
+[Sat Nov  1 10:59:54 2025] Monitoring client slot 74
+[Sat Nov  1 10:59:54 2025] Monitoring client slot 75
+[Sat Nov  1 10:59:54 2025] Monitoring client slot 76
+[Sat Nov  1 10:59:54 2025] Monitoring client slot 77
+[Sat Nov  1 10:59:54 2025] Monitoring client slot 78
+[Sat Nov  1 10:59:54 2025] Monitoring client slot 79
+[Sat Nov  1 10:59:54 2025] Monitoring client slot 80
+[Sat Nov  1 10:59:54 2025] Monitoring client slot 81
+[Sat Nov  1 10:59:54 2025] Monitoring client slot 82
+[Sat Nov  1 10:59:54 2025] Monitoring client slot 83
+[Sat Nov  1 10:59:54 2025] Monitoring client slot 84
+[Sat Nov  1 10:59:54 2025] Monitoring client slot 85
+[Sat Nov  1 10:59:54 2025] Monitoring client slot 86
+[Sat Nov  1 10:59:54 2025] Monitoring client slot 87
+[Sat Nov  1 10:59:54 2025] Monitoring client slot 88
+[Sat Nov  1 10:59:54 2025] Monitoring client slot 89
+[Sat Nov  1 10:59:54 2025] Monitoring client slot 90
+[Sat Nov  1 10:59:54 2025] Monitoring client slot 91
+[Sat Nov  1 10:59:54 2025] Monitoring client slot 92
+[Sat Nov  1 10:59:54 2025] Monitoring client slot 93
+[Sat Nov  1 10:59:54 2025] Monitoring client slot 94
+[Sat Nov  1 10:59:54 2025] Monitoring client slot 95
+[Sat Nov  1 10:59:54 2025] Monitoring client slot 96
+[Sat Nov  1 10:59:54 2025] Monitoring client slot 97
+[Sat Nov  1 10:59:54 2025] Monitoring client slot 98
+[Sat Nov  1 10:59:54 2025] Monitoring client slot 99
+[Sat Nov  1 10:59:54 2025] Monitoring client slot 70
+[Sat Nov  1 10:59:54 2025] Monitoring client slot 69
+[Sat Nov  1 10:59:54 2025] Monitoring client slot 68
+[Sat Nov  1 11:00:12 2025] Server shutting down...
+[Sat Nov  1 11:00:34 2025] Server shutting down...
+[Sat Nov  1 11:03:38 2025] Conversation directory created or exists
+[Sat Nov  1 11:03:38 2025] Loaded 6 users from user.txt
+[Sat Nov  1 11:03:38 2025] Loaded 5 groups from group.txt
+[Sat Nov  1 11:03:38 2025] Server started
+[Sat Nov  1 11:03:38 2025] Shared memory initialized
+[Sat Nov  1 11:03:38 2025] Client 6 connected
+[Sat Nov  1 11:03:38 2025] Client 7 connected
+[Sat Nov  1 11:03:38 2025] Client 8 connected
+[Sat Nov  1 11:03:38 2025] Client 9 connected
+[Sat Nov  1 11:03:38 2025] Client 10 connected
+[Sat Nov  1 11:03:38 2025] Client 11 connected
+[Sat Nov  1 11:03:38 2025] Client 12 connected
+[Sat Nov  1 11:03:38 2025] Client 13 connected
+[Sat Nov  1 11:03:38 2025] Client 0 connected
+[Sat Nov  1 11:03:38 2025] Client 1 connected
+[Sat Nov  1 11:03:38 2025] Client 14 connected
+[Sat Nov  1 11:03:38 2025] Client 17 connected
+[Sat Nov  1 11:03:38 2025] Client 2 connected
+[Sat Nov  1 11:03:38 2025] Client 20 connected
+[Sat Nov  1 11:03:38 2025] Client 19 connected
+[Sat Nov  1 11:03:38 2025] Client 15 connected
+[Sat Nov  1 11:03:38 2025] Client 18 connected
+[Sat Nov  1 11:03:38 2025] Client 5 connected
+[Sat Nov  1 11:03:38 2025] Client 4 connected
+[Sat Nov  1 11:03:38 2025] Client 3 connected
+[Sat Nov  1 11:03:38 2025] Client 16 connected
+[Sat Nov  1 11:03:38 2025] Client 21 connected
+[Sat Nov  1 11:03:38 2025] Client 22 connected
+[Sat Nov  1 11:03:38 2025] Client 23 connected
+[Sat Nov  1 11:03:38 2025] Client 24 connected
+[Sat Nov  1 11:03:38 2025] Client 25 connected
+[Sat Nov  1 11:03:38 2025] Client 26 connected
+[Sat Nov  1 11:03:38 2025] Client 28 connected
+[Sat Nov  1 11:03:38 2025] Client 27 connected
+[Sat Nov  1 11:03:38 2025] Client 29 connected
+[Sat Nov  1 11:03:38 2025] Client 30 connected
+[Sat Nov  1 11:03:38 2025] Client 32 connected
+[Sat Nov  1 11:03:38 2025] Client 33 connected
+[Sat Nov  1 11:03:38 2025] Client 31 connected
+[Sat Nov  1 11:03:38 2025] Client 34 connected
+[Sat Nov  1 11:03:38 2025] Client 35 connected
+[Sat Nov  1 11:03:38 2025] Client 36 connected
+[Sat Nov  1 11:03:38 2025] Client 37 connected
+[Sat Nov  1 11:03:38 2025] Client 39 connected
+[Sat Nov  1 11:03:38 2025] Client 38 connected
+[Sat Nov  1 11:03:38 2025] Client 40 connected
+[Sat Nov  1 11:03:38 2025] Client 41 connected
+[Sat Nov  1 11:03:38 2025] Client 42 connected
+[Sat Nov  1 11:03:38 2025] Client 43 connected
+[Sat Nov  1 11:03:38 2025] Client 45 connected
+[Sat Nov  1 11:03:38 2025] Client 44 connected
+[Sat Nov  1 11:03:38 2025] Client 46 connected
+[Sat Nov  1 11:03:38 2025] Client 47 connected
+[Sat Nov  1 11:03:38 2025] Client 48 connected
+[Sat Nov  1 11:03:38 2025] Client 51 connected
+[Sat Nov  1 11:03:38 2025] Client 66 connected
+[Sat Nov  1 11:03:38 2025] Client 52 connected
+[Sat Nov  1 11:03:38 2025] Client 59 connected
+[Sat Nov  1 11:03:38 2025] Client 56 connected
+[Sat Nov  1 11:03:38 2025] Client 57 connected
+[Sat Nov  1 11:03:38 2025] Client 60 connected
+[Sat Nov  1 11:03:38 2025] Client 53 connected
+[Sat Nov  1 11:03:38 2025] Client 58 connected
+[Sat Nov  1 11:03:38 2025] Client 80 connected
+[Sat Nov  1 11:03:38 2025] Client 75 connected
+[Sat Nov  1 11:03:38 2025] Client 55 connected
+[Sat Nov  1 11:03:38 2025] Client 64 connected
+[Sat Nov  1 11:03:38 2025] Client 50 connected
+[Sat Nov  1 11:03:38 2025] Client 74 connected
+[Sat Nov  1 11:03:38 2025] Client 69 connected
+[Sat Nov  1 11:03:38 2025] Client 73 connected
+[Sat Nov  1 11:03:38 2025] Client 61 connected
+[Sat Nov  1 11:03:38 2025] Client 63 connected
+[Sat Nov  1 11:03:38 2025] Client 65 connected
+[Sat Nov  1 11:03:38 2025] Client 68 connected
+[Sat Nov  1 11:03:38 2025] Client 77 connected
+[Sat Nov  1 11:03:38 2025] Client 54 connected
+[Sat Nov  1 11:03:38 2025] Client 70 connected
+[Sat Nov  1 11:03:38 2025] Client 79 connected
+[Sat Nov  1 11:03:38 2025] Client 78 connected
+[Sat Nov  1 11:03:38 2025] Client 67 connected
+[Sat Nov  1 11:03:38 2025] Client 76 connected
+[Sat Nov  1 11:03:38 2025] Client 71 connected
+[Sat Nov  1 11:03:38 2025] Client 81 connected
+[Sat Nov  1 11:03:38 2025] Client 72 connected
+[Sat Nov  1 11:03:38 2025] Client 62 connected
+[Sat Nov  1 11:03:38 2025] Client 49 connected
+[Sat Nov  1 11:03:38 2025] Client 82 connected
+[Sat Nov  1 11:03:38 2025] Client 83 connected
+[Sat Nov  1 11:03:38 2025] Client 84 connected
+[Sat Nov  1 11:03:38 2025] Client 86 connected
+[Sat Nov  1 11:03:38 2025] Client 87 connected
+[Sat Nov  1 11:03:38 2025] Client 88 connected
+[Sat Nov  1 11:03:38 2025] Client 89 connected
+[Sat Nov  1 11:03:38 2025] Client 90 connected
+[Sat Nov  1 11:03:38 2025] Client 91 connected
+[Sat Nov  1 11:03:38 2025] Client 95 connected
+[Sat Nov  1 11:03:38 2025] Client 92 connected
+[Sat Nov  1 11:03:38 2025] Client 93 connected
+[Sat Nov  1 11:03:38 2025] Client 94 connected
+[Sat Nov  1 11:03:38 2025] Client 96 connected
+[Sat Nov  1 11:03:38 2025] Client 85 connected
+[Sat Nov  1 11:03:38 2025] Client 99 connected
+[Sat Nov  1 11:03:38 2025] Client 97 connected
+[Sat Nov  1 11:03:38 2025] Client 98 connected
+[Sat Nov  1 11:29:37 2025] Conversation directory created or exists
+[Sat Nov  1 11:29:37 2025] Loaded 6 users from user.txt
+[Sat Nov  1 11:29:37 2025] Loaded 5 groups from group.txt
+[Sat Nov  1 11:29:37 2025] Server started
+[Sat Nov  1 11:29:37 2025] Shared memory initialized
+[Sat Nov  1 11:29:37 2025] Client 2 connected
+[Sat Nov  1 11:29:37 2025] Client 13 connected
+[Sat Nov  1 11:29:37 2025] Client 0 connected
+[Sat Nov  1 11:29:37 2025] Client 51 connected
+[Sat Nov  1 11:29:37 2025] Client 24 connected
+[Sat Nov  1 11:29:37 2025] Client 14 connected
+[Sat Nov  1 11:29:37 2025] Client 15 connected
+[Sat Nov  1 11:29:37 2025] Client 16 connected
+[Sat Nov  1 11:29:37 2025] Client 10 connected
+[Sat Nov  1 11:29:37 2025] Client 3 connected
+[Sat Nov  1 11:29:37 2025] Client 5 connected
+[Sat Nov  1 11:29:37 2025] Client 7 connected
+[Sat Nov  1 11:29:37 2025] Client 4 connected
+[Sat Nov  1 11:29:37 2025] Client 6 connected
+[Sat Nov  1 11:29:37 2025] Client 11 connected
+[Sat Nov  1 11:29:37 2025] Client 9 connected
+[Sat Nov  1 11:29:37 2025] Client 21 connected
+[Sat Nov  1 11:29:37 2025] Client 22 connected
+[Sat Nov  1 11:29:37 2025] Client 17 connected
+[Sat Nov  1 11:29:37 2025] Client 18 connected
+[Sat Nov  1 11:29:37 2025] Client 19 connected
+[Sat Nov  1 11:29:37 2025] Client 20 connected
+[Sat Nov  1 11:29:37 2025] Client 25 connected
+[Sat Nov  1 11:29:37 2025] Client 50 connected
+[Sat Nov  1 11:29:37 2025] Client 23 connected
+[Sat Nov  1 11:29:37 2025] Client 12 connected
+[Sat Nov  1 11:29:37 2025] Client 26 connected
+[Sat Nov  1 11:29:37 2025] Client 27 connected
+[Sat Nov  1 11:29:37 2025] Client 28 connected
+[Sat Nov  1 11:29:37 2025] Client 8 connected
+[Sat Nov  1 11:29:37 2025] Client 29 connected
+[Sat Nov  1 11:29:37 2025] Client 30 connected
+[Sat Nov  1 11:29:37 2025] Client 31 connected
+[Sat Nov  1 11:29:37 2025] Client 32 connected
+[Sat Nov  1 11:29:37 2025] Client 35 connected
+[Sat Nov  1 11:29:37 2025] Client 33 connected
+[Sat Nov  1 11:29:37 2025] Client 48 connected
+[Sat Nov  1 11:29:37 2025] Client 49 connected
+[Sat Nov  1 11:29:37 2025] Client 46 connected
+[Sat Nov  1 11:29:37 2025] Client 44 connected
+[Sat Nov  1 11:29:37 2025] Client 34 connected
+[Sat Nov  1 11:29:37 2025] Client 40 connected
+[Sat Nov  1 11:29:37 2025] Client 1 connected
+[Sat Nov  1 11:29:37 2025] Client 41 connected
+[Sat Nov  1 11:29:37 2025] Client 42 connected
+[Sat Nov  1 11:29:37 2025] Client 59 connected
+[Sat Nov  1 11:29:37 2025] Client 45 connected
+[Sat Nov  1 11:29:37 2025] Client 38 connected
+[Sat Nov  1 11:29:37 2025] Client 61 connected
+[Sat Nov  1 11:29:37 2025] Client 43 connected
+[Sat Nov  1 11:29:37 2025] Client 47 connected
+[Sat Nov  1 11:29:37 2025] Client 39 connected
+[Sat Nov  1 11:29:37 2025] Client 63 connected
+[Sat Nov  1 11:29:37 2025] Client 36 connected
+[Sat Nov  1 11:29:37 2025] Client 37 connected
+[Sat Nov  1 11:29:37 2025] Client 54 connected
+[Sat Nov  1 11:29:37 2025] Client 65 connected
+[Sat Nov  1 11:29:37 2025] Client 56 connected
+[Sat Nov  1 11:29:37 2025] Client 62 connected
+[Sat Nov  1 11:29:37 2025] Client 60 connected
+[Sat Nov  1 11:29:37 2025] Client 58 connected
+[Sat Nov  1 11:29:37 2025] Client 57 connected
+[Sat Nov  1 11:29:37 2025] Client 55 connected
+[Sat Nov  1 11:29:37 2025] Client 53 connected
+[Sat Nov  1 11:29:37 2025] Client 52 connected
+[Sat Nov  1 11:29:37 2025] Client 66 connected
+[Sat Nov  1 11:29:37 2025] Client 64 connected
+[Sat Nov  1 11:29:37 2025] Client 67 connected
+[Sat Nov  1 11:29:37 2025] Client 68 connected
+[Sat Nov  1 11:29:37 2025] Client 70 connected
+[Sat Nov  1 11:29:37 2025] Client 69 connected
+[Sat Nov  1 11:29:37 2025] Client 72 connected
+[Sat Nov  1 11:29:37 2025] Client 71 connected
+[Sat Nov  1 11:29:37 2025] Client 74 connected
+[Sat Nov  1 11:29:37 2025] Client 75 connected
+[Sat Nov  1 11:29:37 2025] Client 76 connected
+[Sat Nov  1 11:29:37 2025] Client 77 connected
+[Sat Nov  1 11:29:37 2025] Client 78 connected
+[Sat Nov  1 11:29:37 2025] Client 79 connected
+[Sat Nov  1 11:29:37 2025] Client 80 connected
+[Sat Nov  1 11:29:37 2025] Client 81 connected
+[Sat Nov  1 11:29:37 2025] Client 82 connected
+[Sat Nov  1 11:29:37 2025] Client 83 connected
+[Sat Nov  1 11:29:37 2025] Client 73 connected
+[Sat Nov  1 11:29:37 2025] Client 84 connected
+[Sat Nov  1 11:29:37 2025] Client 85 connected
+[Sat Nov  1 11:29:37 2025] Client 87 connected
+[Sat Nov  1 11:29:37 2025] Client 88 connected
+[Sat Nov  1 11:29:37 2025] Client 94 connected
+[Sat Nov  1 11:29:37 2025] Client 96 connected
+[Sat Nov  1 11:29:37 2025] Client 86 connected
+[Sat Nov  1 11:29:37 2025] Client 93 connected
+[Sat Nov  1 11:29:37 2025] Client 95 connected
+[Sat Nov  1 11:29:37 2025] Client 97 connected
+[Sat Nov  1 11:29:37 2025] Client 98 connected
+[Sat Nov  1 11:29:37 2025] Client 92 connected
+[Sat Nov  1 11:29:37 2025] Client 91 connected
+[Sat Nov  1 11:29:37 2025] Client 90 connected
+[Sat Nov  1 11:29:37 2025] Client 89 connected
+[Sat Nov  1 11:29:37 2025] Client 99 connected
+[Sat Nov  1 11:54:00 2025] Server shutting down...
+[Sat Nov  1 11:54:24 2025] Conversation directory created or exists
+[Sat Nov  1 11:54:24 2025] Loaded 6 users from user.txt
+[Sat Nov  1 11:54:24 2025] Loaded 5 groups from group.txt
+[Sat Nov  1 11:54:24 2025] Server started
+[Sat Nov  1 11:54:24 2025] Shared memory initialized
+[Sat Nov  1 11:54:24 2025] Client 0 connected
+[Sat Nov  1 11:54:24 2025] Client 2 connected
+[Sat Nov  1 11:54:24 2025] Client 1 connected
+[Sat Nov  1 11:54:24 2025] Client 3 connected
+[Sat Nov  1 11:54:24 2025] Client 4 connected
+[Sat Nov  1 11:54:24 2025] Client 5 connected
+[Sat Nov  1 11:54:24 2025] Client 6 connected
+[Sat Nov  1 11:54:24 2025] Client 18 connected
+[Sat Nov  1 11:54:24 2025] Client 7 connected
+[Sat Nov  1 11:54:24 2025] Client 23 connected
+[Sat Nov  1 11:54:24 2025] Client 21 connected
+[Sat Nov  1 11:54:24 2025] Client 12 connected
+[Sat Nov  1 11:54:24 2025] Client 20 connected
+[Sat Nov  1 11:54:24 2025] Client 24 connected
+[Sat Nov  1 11:54:24 2025] Client 8 connected
+[Sat Nov  1 11:54:24 2025] Client 26 connected
+[Sat Nov  1 11:54:24 2025] Client 27 connected
+[Sat Nov  1 11:54:24 2025] Client 28 connected
+[Sat Nov  1 11:54:24 2025] [Sat Nov  1 11:54:24 2025] Client 17 connected
+[Sat Nov  1 11:54:24 2025] Client 22 connected
+[Sat Nov  1 11:54:24 2025] Client 16 connected
+Client 13 connected
+[Sat Nov  1 11:54:24 2025] Client 43 connected
+[Sat Nov  1 11:54:24 2025] Client 11 connected
+[Sat Nov  1 11:54:24 2025] Client 15 connected
+[Sat Nov  1 11:54:24 2025] Client 10 connected
+[Sat Nov  1 11:54:24 2025] Client 44 connected
+[Sat Nov  1 11:54:24 2025] Client 47 connected
+[Sat Nov  1 11:54:24 2025] Client 48 connected
+[Sat Nov  1 11:54:24 2025] Client 45 connected
+[Sat Nov  1 11:54:24 2025] Client 42 connected
+[Sat Nov  1 11:54:24 2025] [Sat Nov  1 11:54:24 2025] Client 25 connected
+[Sat Nov  1 11:54:24 2025] Client 60 connected
+[Sat Nov  1 11:54:24 2025] Client 61 connected
+[Sat Nov  1 11:54:24 2025] Client 59 connected
+[Sat Nov  1 11:54:24 2025] Client 62 connected
+[Sat Nov  1 11:54:24 2025] Client 63 connected
+[Sat Nov  1 11:54:24 2025] Client 64 connected
+[Sat Nov  1 11:54:24 2025] Client 65 connected
+[Sat Nov  1 11:54:24 2025] [Sat Nov  1 11:54:24 2025] Client 9 connected
+[Sat Nov  1 11:54:24 2025] [Sat Nov  1 11:54:24 2025] Client 19 connected
+[Sat Nov  1 11:54:24 2025] Client 14 connected
+Client 41 connected
+Client 40 connected
+Client 39 connected
+[Sat Nov  1 11:54:24 2025] Client 36 connected
+[Sat Nov  1 11:54:24 2025] Client 67 connected
+[Sat Nov  1 11:54:24 2025] Client 71 connected
+[Sat Nov  1 11:54:24 2025] Client 34 connected
+[Sat Nov  1 11:54:24 2025] Client 38 connected
+[Sat Nov  1 11:54:24 2025] Client 35 connected
+[Sat Nov  1 11:54:24 2025] Client 68 connected
+[Sat Nov  1 11:54:24 2025] Client 37 connected
+[Sat Nov  1 11:54:24 2025] Client 33 connected
+[Sat Nov  1 11:54:24 2025] Client 32 connected
+[Sat Nov  1 11:54:24 2025] Client 31 connected
+[Sat Nov  1 11:54:24 2025] Client 53 connected
+[Sat Nov  1 11:54:24 2025] Client 52 connected
+[Sat Nov  1 11:54:24 2025] Client 58 connected
+[Sat Nov  1 11:54:24 2025] Client 55 connected
+[Sat Nov  1 11:54:24 2025] Client 54 connected
+[Sat Nov  1 11:54:24 2025] Client 57 connected
+[Sat Nov  1 11:54:24 2025] Client 50 connected
+[Sat Nov  1 11:54:24 2025] Client 56 connected
+[Sat Nov  1 11:54:24 2025] Client 51 connected
+[Sat Nov  1 11:54:24 2025] Client 66 connected
+[Sat Nov  1 11:54:24 2025] Client 30 connected
+[Sat Nov  1 11:54:24 2025] Client 72 connected
+[Sat Nov  1 11:54:24 2025] Client 74 connected
+[Sat Nov  1 11:54:24 2025] Client 75 connected
+[Sat Nov  1 11:54:24 2025] Client 76 connected
+[Sat Nov  1 11:54:24 2025] Client 77 connected
+[Sat Nov  1 11:54:24 2025] Client 78 connected
+[Sat Nov  1 11:54:24 2025] Client 79 connected
+[Sat Nov  1 11:54:24 2025] Client 80 connected
+[Sat Nov  1 11:54:24 2025] Client 69 connected
+[Sat Nov  1 11:54:24 2025] Client 29 connected
+[Sat Nov  1 11:54:24 2025] Client 46 connected
+[Sat Nov  1 11:54:24 2025] Client 49 connected
+[Sat Nov  1 11:54:24 2025] Client 70 connected
+[Sat Nov  1 11:54:24 2025] Client 73 connected
+[Sat Nov  1 11:54:24 2025] Client 87 connected
+[Sat Nov  1 11:54:24 2025] Client 88 connected
+[Sat Nov  1 11:54:24 2025] Client 89 connected
+[Sat Nov  1 11:54:24 2025] Client 90 connected
+[Sat Nov  1 11:54:24 2025] Client 91 connected
+[Sat Nov  1 11:54:24 2025] Client 81 connected
+[Sat Nov  1 11:54:24 2025] Client 99 connected
+[Sat Nov  1 11:54:24 2025] [Sat Nov  1 11:54:24 2025] Client 94 connected
+[Sat Nov  1 11:54:24 2025] Client 95 connected
+Client 97 connected
+[Sat Nov  1 11:54:24 2025] Client 96 connected
+[Sat Nov  1 11:54:24 2025] Client 92 connected
+[Sat Nov  1 11:54:24 2025] Client 86 connected
+[Sat Nov  1 11:54:24 2025] Client 98 connected
+[Sat Nov  1 11:54:24 2025] Client 83 connected
+[Sat Nov  1 11:54:24 2025] [Sat Nov  1 11:54:24 2025] Client 93 connected
+Client 85 connected
+[Sat Nov  1 11:54:24 2025] Client 84 connected
+[Sat Nov  1 11:54:24 2025] Client 82 connected
+[Sat Nov  1 12:01:11 2025] Server shutting down...
+[Sat Nov  1 12:01:12 2025] Conversation directory created or exists
+[Sat Nov  1 12:01:12 2025] Loaded 6 users from user.txt
+[Sat Nov  1 12:01:12 2025] Loaded 5 groups from group.txt
+[Sat Nov  1 12:01:12 2025] Server started
+[Sat Nov  1 12:01:12 2025] Shared memory initialized
+[Sat Nov  1 12:01:12 2025] Client 1 connected
+[Sat Nov  1 12:01:12 2025] Client 4 connected
+[Sat Nov  1 12:01:12 2025] Client 0 connected
+[Sat Nov  1 12:01:12 2025] Client 2 connected
+[Sat Nov  1 12:01:12 2025] Client 3 connected
+[Sat Nov  1 12:01:12 2025] Client 6 connected
+[Sat Nov  1 12:01:12 2025] Client 7 connected
+[Sat Nov  1 12:01:12 2025] Client 9 connected
+[Sat Nov  1 12:01:12 2025] Client 10 connected
+[Sat Nov  1 12:01:12 2025] Client 12 connected
+[Sat Nov  1 12:01:12 2025] Client 14 connected
+[Sat Nov  1 12:01:12 2025] Client 16 connected
+[Sat Nov  1 12:01:12 2025] Client 19 connected
+[Sat Nov  1 12:01:12 2025] Client 25 connected
+[Sat Nov  1 12:01:12 2025] Client 5 connected
+[Sat Nov  1 12:01:12 2025] Client 28 connected
+[Sat Nov  1 12:01:12 2025] Client 27 connected
+[Sat Nov  1 12:01:12 2025] Client 29 connected
+[Sat Nov  1 12:01:12 2025] Client 20 connected
+[Sat Nov  1 12:01:12 2025] Client 36 connected
+[Sat Nov  1 12:01:12 2025] Client 21 connected
+[Sat Nov  1 12:01:12 2025] Client 22 connected
+[Sat Nov  1 12:01:12 2025] Client 35 connected
+[Sat Nov  1 12:01:12 2025] Client 33 connected
+[Sat Nov  1 12:01:12 2025] Client 31 connected
+[Sat Nov  1 12:01:12 2025] Client 23 connected
+[Sat Nov  1 12:01:12 2025] Client 39 connected
+[Sat Nov  1 12:01:12 2025] Client 40 connected
+[Sat Nov  1 12:01:12 2025] Client 41 connected
+[Sat Nov  1 12:01:12 2025] Client 42 connected
+[Sat Nov  1 12:01:12 2025] Client 44 connected
+[Sat Nov  1 12:01:12 2025] Client 45 connected
+[Sat Nov  1 12:01:12 2025] Client 46 connected
+[Sat Nov  1 12:01:12 2025] Client 47 connected
+[Sat Nov  1 12:01:12 2025] Client 48 connected
+[Sat Nov  1 12:01:12 2025] Client 50 connected
+[Sat Nov  1 12:01:12 2025] Client 51 connected
+[Sat Nov  1 12:01:12 2025] Client 52 connected
+[Sat Nov  1 12:01:12 2025] Client 54 connected
+[Sat Nov  1 12:01:12 2025] Client 56 connected
+[Sat Nov  1 12:01:12 2025] Client 58 connected
+[Sat Nov  1 12:01:12 2025] Client 59 connected
+[Sat Nov  1 12:01:12 2025] Client 60 connected
+[Sat Nov  1 12:01:12 2025] Client 61 connected
+[Sat Nov  1 12:01:12 2025] Client 62 connected
+[Sat Nov  1 12:01:12 2025] Client 63 connected
+[Sat Nov  1 12:01:12 2025] Client 64 connected
+[Sat Nov  1 12:01:12 2025] Client 65 connected
+[Sat Nov  1 12:01:12 2025] Client 67 connected
+[Sat Nov  1 12:01:12 2025] Client 68 connected
+[Sat Nov  1 12:01:12 2025] Client 69 connected
+[Sat Nov  1 12:01:12 2025] Client 70 connected
+[Sat Nov  1 12:01:12 2025] Client 71 connected
+[Sat Nov  1 12:01:12 2025] Client 72 connected
+[Sat Nov  1 12:01:12 2025] Client 75 connected
+[Sat Nov  1 12:01:12 2025] Client 18 connected
+[Sat Nov  1 12:01:12 2025] Client 74 connected
+[Sat Nov  1 12:01:12 2025] Client 24 connected
+[Sat Nov  1 12:01:12 2025] Client 38 connected
+[Sat Nov  1 12:01:12 2025] [Sat Nov  1 12:01:12 2025] Client 43 connected
+[Sat Nov  1 12:01:12 2025] Client 49 connected
+[Sat Nov  1 12:01:12 2025] [Sat Nov  1 12:01:12 2025] Client 32 connected
+[Sat Nov  1 12:01:12 2025] Client 34 connected
+[Sat Nov  1 12:01:12 2025] Client 30 connected
+[Sat Nov  1 12:01:12 2025] Client 17 connected
+[Sat Nov  1 12:01:12 2025] Client 15 connected
+[Sat Nov  1 12:01:12 2025] Client 26 connected
+[Sat Nov  1 12:01:12 2025] Client 66 connected
+Client 73 connected
+Client 86 connected
+[Sat Nov  1 12:01:12 2025] Client 13 connected
+[Sat Nov  1 12:01:12 2025] Client 37 connected
+[Sat Nov  1 12:01:12 2025] Client 11 connected
+[Sat Nov  1 12:01:12 2025] Client 53 connected
+[Sat Nov  1 12:01:12 2025] Client 55 connected
+[Sat Nov  1 12:01:12 2025] Client 57 connected
+[Sat Nov  1 12:01:12 2025] Client 76 connected
+[Sat Nov  1 12:01:12 2025] Client 78 connected
+[Sat Nov  1 12:01:12 2025] Client 79 connected
+[Sat Nov  1 12:01:12 2025] Client 81 connected
+[Sat Nov  1 12:01:12 2025] Client 82 connected
+[Sat Nov  1 12:01:12 2025] Client 83 connected
+[Sat Nov  1 12:01:12 2025] Client 85 connected
+[Sat Nov  1 12:01:12 2025] Client 87 connected
+[Sat Nov  1 12:01:12 2025] Client 89 connected
+[Sat Nov  1 12:01:12 2025] Client 90 connected
+[Sat Nov  1 12:01:12 2025] Client 92 connected
+[Sat Nov  1 12:01:12 2025] Client 94 connected
+[Sat Nov  1 12:01:12 2025] Client 96 connected
+[Sat Nov  1 12:01:12 2025] Client 98 connected
+[Sat Nov  1 12:01:12 2025] Client 77 connected
+[Sat Nov  1 12:01:12 2025] Client 84 connected
+[Sat Nov  1 12:01:12 2025] Client 91 connected
+[Sat Nov  1 12:01:12 2025] Client 93 connected
+[Sat Nov  1 12:01:12 2025] Client 97 connected
+[Sat Nov  1 12:01:12 2025] Client 99 connected
+[Sat Nov  1 12:01:12 2025] Client 88 connected
+[Sat Nov  1 12:01:12 2025] Client 95 connected
+[Sat Nov  1 12:01:12 2025] Client 80 connected
+[Sat Nov  1 12:01:12 2025] Client 8 connected
+[Sat Nov  1 13:38:21 2025] Conversation directory created or exists
+[Sat Nov  1 13:38:21 2025] Loaded 6 users from user.txt
+[Sat Nov  1 13:38:21 2025] Loaded 5 groups from group.txt
+[Sat Nov  1 13:38:21 2025] Server started
+[Sat Nov  1 13:38:21 2025] Shared memory initialized
+[Sat Nov  1 13:38:21 2025] Client 0 connected
+[Sat Nov  1 13:38:21 2025] Client 30 connected
+[Sat Nov  1 13:38:21 2025] Client 29 connected
+[Sat Nov  1 13:38:21 2025] Client 31 connected
+[Sat Nov  1 13:38:21 2025] Client 32 connected
+[Sat Nov  1 13:38:21 2025] Client 33 connected
+[Sat Nov  1 13:38:21 2025] Client 34 connected
+[Sat Nov  1 13:38:21 2025] Client 35 connected
+[Sat Nov  1 13:38:21 2025] Client 36 connected
+[Sat Nov  1 13:38:21 2025] Client 37 connected
+[Sat Nov  1 13:38:21 2025] Client 39 connected
+[Sat Nov  1 13:38:21 2025] Client 42 connected
+[Sat Nov  1 13:38:21 2025] Client 43 connected
+[Sat Nov  1 13:38:21 2025] Client 44 connected
+[Sat Nov  1 13:38:21 2025] Client 52 connected
+[Sat Nov  1 13:38:21 2025] Client 53 connected
+[Sat Nov  1 13:38:21 2025] Client 66 connected
+[Sat Nov  1 13:38:21 2025] Client 68 connected
+[Sat Nov  1 13:38:21 2025] Client 71 connected
+[Sat Nov  1 13:38:21 2025] Client 9 connected
+[Sat Nov  1 13:38:21 2025] Client 16 connected
+[Sat Nov  1 13:38:21 2025] Client 17 connected
+[Sat Nov  1 13:38:21 2025] Client 19 connected
+[Sat Nov  1 13:38:21 2025] [Sat Nov  1 13:38:21 2025] Client 22 connected
+[Sat Nov  1 13:38:21 2025] Client 21 connected
+[Sat Nov  1 13:38:21 2025] Client 24 connected
+[Sat Nov  1 13:38:21 2025] Client 23 connected
+Client 10 connected
+[Sat Nov  1 13:38:21 2025] Client 26 connected
+[Sat Nov  1 13:38:21 2025] Client 27 connected
+[Sat Nov  1 13:38:21 2025] Client 28 connected
+[Sat Nov  1 13:38:21 2025] [Sat Nov  1 13:38:21 2025] Client 40 connected
+[Sat Nov  1 13:38:21 2025] Client 45 connected
+[Sat Nov  1 13:38:21 2025] Client 46 connected
+Client 11 connected
+[Sat Nov  1 13:38:21 2025] [Sat Nov  1 13:38:21 2025] Client 48 connected
+[Sat Nov  1 13:38:21 2025] Client 50 connected
+[Sat Nov  1 13:38:21 2025] Client 54 connected
+[Sat Nov  1 13:38:21 2025] Client 55 connected
+Client 12 connected
+[Sat Nov  1 13:38:21 2025] [Sat Nov  1 13:38:21 2025] Client 56 connected
+Client 13 connected
+[Sat Nov  1 13:38:21 2025] [Sat Nov  1 13:38:21 2025] Client 67 connected
+Client 2 connected
+[Sat Nov  1 13:38:21 2025] Client 69 connected
+[Sat Nov  1 13:38:21 2025] [Sat Nov  1 13:38:21 2025] Client 70 connected
+Client 6 connected
+[Sat Nov  1 13:38:21 2025] [Sat Nov  1 13:38:21 2025] Client 72 connected
+Client 4 connected
+[Sat Nov  1 13:38:21 2025] Client 57 connected
+[Sat Nov  1 13:38:21 2025] [Sat Nov  1 13:38:21 2025] Client 18 connected
+Client 58 connected
+[Sat Nov  1 13:38:21 2025] Client 61 connected
+[Sat Nov  1 13:38:21 2025] Client 15 connected
+[Sat Nov  1 13:38:21 2025] [Sat Nov  1 13:38:21 2025] Client 25 connected
+Client 14 connected
+[Sat Nov  1 13:38:21 2025] [Sat Nov  1 13:38:21 2025] Client 74 connected
+[Sat Nov  1 13:38:21 2025] Client 75 connected
+[Sat Nov  1 13:38:21 2025] [Sat Nov  1 13:38:21 2025] Client 38 connected
+[Sat Nov  1 13:38:21 2025] Client 49 connected
+[Sat Nov  1 13:38:21 2025] Client 8 connected
+[Sat Nov  1 13:38:21 2025] Client 3 connected
+[Sat Nov  1 13:38:21 2025] Client 5 connected
+[Sat Nov  1 13:38:21 2025] Client 73 connected
+[Sat Nov  1 13:38:21 2025] Client 41 connected
+[Sat Nov  1 13:38:21 2025] Client 51 connected
+[Sat Nov  1 13:38:21 2025] Client 7 connected
+[Sat Nov  1 13:38:21 2025] Client 20 connected
+[Sat Nov  1 13:38:21 2025] [Sat Nov  1 13:38:21 2025] Client 47 connected
+Client 1 connected
+Client 76 connected
+[Sat Nov  1 13:38:21 2025] Client 59 connected
+Client 60 connected
+[Sat Nov  1 13:38:21 2025] Client 77 connected
+[Sat Nov  1 13:38:21 2025] Client 78 connected
+[Sat Nov  1 13:38:21 2025] Client 62 connected
+[Sat Nov  1 13:38:21 2025] Client 65 connected
+[Sat Nov  1 13:38:21 2025] Client 64 connected
+[Sat Nov  1 13:38:21 2025] Client 63 connected
+[Sat Nov  1 13:38:21 2025] Client 98 connected
+[Sat Nov  1 13:38:21 2025] Client 96 connected
+[Sat Nov  1 13:38:21 2025] Client 97 connected
+[Sat Nov  1 13:38:21 2025] Client 79 connected
+[Sat Nov  1 13:38:21 2025] Client 99 connected
+[Sat Nov  1 13:38:21 2025] Client 95 connected
+[Sat Nov  1 13:38:21 2025] Client 94 connected
+[Sat Nov  1 13:38:21 2025] Client 93 connected
+[Sat Nov  1 13:38:21 2025] Client 92 connected
+[Sat Nov  1 13:38:21 2025] Client 91 connected
+[Sat Nov  1 13:38:21 2025] Client 80 connected
+[Sat Nov  1 13:38:21 2025] Client 85 connected
+[Sat Nov  1 13:38:21 2025] Client 86 connected
+[Sat Nov  1 13:38:21 2025] Client 87 connected
+[Sat Nov  1 13:38:21 2025] Client 88 connected
+[Sat Nov  1 13:38:21 2025] Client 89 connected
+[Sat Nov  1 13:38:21 2025] Client 90 connected
+[Sat Nov  1 13:38:21 2025] Client 84 connected
+[Sat Nov  1 13:38:21 2025] Client 83 connected
+[Sat Nov  1 13:38:21 2025] Client 82 connected
+[Sat Nov  1 13:38:21 2025] Client 81 connected
+[Sat Nov  1 13:38:34 2025] Login attempt: client_id=0, username=qa
+[Sat Nov  1 13:38:34 2025] qa logged in (client_id=0)
+[Sat Nov  1 13:39:11 2025] Received from qa: /menu
+[Sat Nov  1 13:39:27 2025] Received from qa: dasdasdasd
+[Sat Nov  1 13:39:27 2025] Broadcasting message from qa: dasdasdasd
+[Sat Nov  1 13:39:27 2025] qa broadcast: dasdasdasd
+[Sat Nov  1 13:40:06 2025] Received from qa: eva:1234
+[Sat Nov  1 13:40:06 2025] Broadcasting message from qa: eva:1234
+[Sat Nov  1 13:40:06 2025] qa broadcast: eva:1234
+[Sat Nov  1 13:40:42 2025] Received from qa: gasdasd
+[Sat Nov  1 13:40:42 2025] Broadcasting message from qa: gasdasd
+[Sat Nov  1 13:40:42 2025] qa broadcast: gasdasd
+[Sat Nov  1 13:40:44 2025] Received from qa: asdasfads
+[Sat Nov  1 13:40:44 2025] Broadcasting message from qa: asdasfads
+[Sat Nov  1 13:40:44 2025] qa broadcast: asdasfads
+[Sat Nov  1 13:40:46 2025] Received from qa: asdasd
+[Sat Nov  1 13:40:46 2025] Broadcasting message from qa: asdasd
+[Sat Nov  1 13:40:46 2025] qa broadcast: asdasd
+[Sat Nov  1 13:41:02 2025] Received from qa: /groups
+[Sat Nov  1 13:42:03 2025] Received from qa: /users
+[Sat Nov  1 13:42:37 2025] Received from qa: eva:1234
+[Sat Nov  1 13:42:37 2025] Broadcasting message from qa: eva:1234
+[Sat Nov  1 13:42:37 2025] qa broadcast: eva:1234
+[Sat Nov  1 13:43:35 2025] Received from qa: group2
+[Sat Nov  1 13:43:35 2025] Broadcasting message from qa: group2
+[Sat Nov  1 13:43:35 2025] qa broadcast: group2
+[Sat Nov  1 13:43:49 2025] Received from qa: aloo
+[Sat Nov  1 13:43:49 2025] Broadcasting message from qa: aloo
+[Sat Nov  1 13:43:49 2025] qa broadcast: aloo
+[Sat Nov  1 13:44:00 2025] Received from qa: mn co nhan duoc tn k
+[Sat Nov  1 13:44:00 2025] Broadcasting message from qa: mn co nhan duoc tn k
+[Sat Nov  1 13:44:00 2025] qa broadcast: mn co nhan duoc tn k
+[Sat Nov  1 13:44:15 2025] Received from qa: qa
+[Sat Nov  1 13:44:15 2025] Broadcasting message from qa: qa
+[Sat Nov  1 13:44:15 2025] qa broadcast: qa
+[Sat Nov  1 13:44:23 2025] Received from qa: |qa
+[Sat Nov  1 13:44:23 2025] Fetching conversation history for qa
+[Sat Nov  1 13:44:23 2025] Attempting to read conversation file: conversation/conversation_qa_qa.txt
+[Sat Nov  1 13:44:37 2025] Received from qa: /exit
+[Sat Nov  1 13:44:37 2025] qa disconnected
+[Sat Nov  1 13:48:39 2025] Server shutting down...
+[Sat Nov  1 14:23:14 2025] Conversation directory created or exists
+[Sat Nov  1 14:23:14 2025] Loaded 6 users from user.txt
+[Sat Nov  1 14:23:14 2025] Loaded 5 groups from group.txt
+[Sat Nov  1 14:23:14 2025] Server started
+[Sat Nov  1 14:23:14 2025] Shared memory initialized
+[Sat Nov  1 14:23:14 2025] Client 2 connected
+[Sat Nov  1 14:23:14 2025] Client 1 connected
+[Sat Nov  1 14:23:14 2025] Client 8 connected
+[Sat Nov  1 14:23:14 2025] Client 6 connected
+[Sat Nov  1 14:23:14 2025] Client 4 connected
+[Sat Nov  1 14:23:14 2025] Client 10 connected
+[Sat Nov  1 14:23:14 2025] Client 11 connected
+[Sat Nov  1 14:23:14 2025] Client 15 connected
+[Sat Nov  1 14:23:14 2025] Client 3 connected
+[Sat Nov  1 14:23:14 2025] Client 5 connected
+[Sat Nov  1 14:23:14 2025] Client 17 connected
+[Sat Nov  1 14:23:14 2025] Client 14 connected
+[Sat Nov  1 14:23:14 2025] Client 18 connected
+[Sat Nov  1 14:23:14 2025] [Sat Nov  1 14:23:14 2025] Client 13 connected
+[Sat Nov  1 14:23:14 2025] Client 16 connected
+[Sat Nov  1 14:23:14 2025] Client 9 connected
+[Sat Nov  1 14:23:14 2025] Client 7 connected
+[Sat Nov  1 14:23:14 2025] Client 0 connected
+Client 12 connected
+[Sat Nov  1 14:23:14 2025] Client 19 connected
+[Sat Nov  1 14:23:14 2025] Client 20 connected
+[Sat Nov  1 14:23:14 2025] Client 21 connected
+[Sat Nov  1 14:23:14 2025] Client 22 connected
+[Sat Nov  1 14:23:14 2025] Client 23 connected
+[Sat Nov  1 14:23:14 2025] Client 24 connected
+[Sat Nov  1 14:23:14 2025] Client 25 connected
+[Sat Nov  1 14:23:14 2025] Client 26 connected
+[Sat Nov  1 14:23:14 2025] Client 27 connected
+[Sat Nov  1 14:23:14 2025] Client 28 connected
+[Sat Nov  1 14:23:14 2025] Client 29 connected
+[Sat Nov  1 14:23:14 2025] Client 30 connected
+[Sat Nov  1 14:23:14 2025] Client 31 connected
+[Sat Nov  1 14:23:14 2025] Client 32 connected
+[Sat Nov  1 14:23:14 2025] Client 33 connected
+[Sat Nov  1 14:23:14 2025] Client 34 connected
+[Sat Nov  1 14:23:14 2025] Client 35 connected
+[Sat Nov  1 14:23:14 2025] Client 36 connected
+[Sat Nov  1 14:23:14 2025] Client 37 connected
+[Sat Nov  1 14:23:14 2025] Client 38 connected
+[Sat Nov  1 14:23:14 2025] Client 39 connected
+[Sat Nov  1 14:23:14 2025] Client 40 connected
+[Sat Nov  1 14:23:14 2025] Client 41 connected
+[Sat Nov  1 14:23:14 2025] Client 42 connected
+[Sat Nov  1 14:23:14 2025] Client 43 connected
+[Sat Nov  1 14:23:14 2025] Client 44 connected
+[Sat Nov  1 14:23:14 2025] Client 45 connected
+[Sat Nov  1 14:23:14 2025] Client 47 connected
+[Sat Nov  1 14:23:14 2025] Client 48 connected
+[Sat Nov  1 14:23:14 2025] Client 49 connected
+[Sat Nov  1 14:23:14 2025] Client 50 connected
+[Sat Nov  1 14:23:14 2025] Client 51 connected
+[Sat Nov  1 14:23:14 2025] Client 52 connected
+[Sat Nov  1 14:23:14 2025] Client 53 connected
+[Sat Nov  1 14:23:14 2025] Client 54 connected
+[Sat Nov  1 14:23:14 2025] Client 55 connected
+[Sat Nov  1 14:23:14 2025] Client 56 connected
+[Sat Nov  1 14:23:14 2025] Client 57 connected
+[Sat Nov  1 14:23:14 2025] Client 58 connected
+[Sat Nov  1 14:23:14 2025] Client 59 connected
+[Sat Nov  1 14:23:14 2025] Client 60 connected
+[Sat Nov  1 14:23:14 2025] Client 61 connected
+[Sat Nov  1 14:23:14 2025] Client 62 connected
+[Sat Nov  1 14:23:14 2025] Client 63 connected
+[Sat Nov  1 14:23:14 2025] Client 64 connected
+[Sat Nov  1 14:23:14 2025] Client 65 connected
+[Sat Nov  1 14:23:14 2025] Client 66 connected
+[Sat Nov  1 14:23:14 2025] Client 67 connected
+[Sat Nov  1 14:23:14 2025] Client 68 connected
+[Sat Nov  1 14:23:14 2025] Client 69 connected
+[Sat Nov  1 14:23:14 2025] Client 70 connected
+[Sat Nov  1 14:23:14 2025] Client 71 connected
+[Sat Nov  1 14:23:14 2025] Client 72 connected
+[Sat Nov  1 14:23:14 2025] Client 73 connected
+[Sat Nov  1 14:23:14 2025] Client 74 connected
+[Sat Nov  1 14:23:14 2025] Client 75 connected
+[Sat Nov  1 14:23:14 2025] Client 76 connected
+[Sat Nov  1 14:23:14 2025] Client 77 connected
+[Sat Nov  1 14:23:14 2025] Client 78 connected
+[Sat Nov  1 14:23:14 2025] Client 79 connected
+[Sat Nov  1 14:23:14 2025] Client 80 connected
+[Sat Nov  1 14:23:14 2025] Client 81 connected
+[Sat Nov  1 14:23:14 2025] Client 82 connected
+[Sat Nov  1 14:23:14 2025] Client 83 connected
+[Sat Nov  1 14:23:14 2025] Client 84 connected
+[Sat Nov  1 14:23:14 2025] Client 85 connected
+[Sat Nov  1 14:23:14 2025] Client 86 connected
+[Sat Nov  1 14:23:14 2025] Client 87 connected
+[Sat Nov  1 14:23:14 2025] Client 88 connected
+[Sat Nov  1 14:23:14 2025] Client 89 connected
+[Sat Nov  1 14:23:14 2025] Client 90 connected
+[Sat Nov  1 14:23:14 2025] Client 91 connected
+[Sat Nov  1 14:23:14 2025] Client 92 connected
+[Sat Nov  1 14:23:14 2025] Client 93 connected
+[Sat Nov  1 14:23:14 2025] Client 94 connected
+[Sat Nov  1 14:23:14 2025] Client 95 connected
+[Sat Nov  1 14:23:14 2025] Client 96 connected
+[Sat Nov  1 14:23:14 2025] Client 97 connected
+[Sat Nov  1 14:23:14 2025] Client 98 connected
+[Sat Nov  1 14:23:14 2025] Client 46 connected
+[Sat Nov  1 14:23:14 2025] Client 99 connected
+[Sat Nov  1 14:23:32 2025] Login attempt: client_id=0, username=eva
+[Sat Nov  1 14:23:32 2025] eva logged in (client_id=0)
+[Sat Nov  1 14:23:48 2025] Login attempt: client_id=1, username=qa
+[Sat Nov  1 14:23:48 2025] qa logged in (client_id=1)
+[Sat Nov  1 14:24:03 2025] Login attempt: client_id=2, username=dasda
+[Sat Nov  1 14:28:38 2025] Conversation directory created or exists
+[Sat Nov  1 14:28:38 2025] Loaded 6 users from user.txt
+[Sat Nov  1 14:28:38 2025] Loaded 5 groups from group.txt
+[Sat Nov  1 14:28:38 2025] Server started
+[Sat Nov  1 14:28:38 2025] Shared memory initialized
+[Sat Nov  1 14:28:38 2025] Client 2 connected
+[Sat Nov  1 14:28:38 2025] Client 22 connected
+[Sat Nov  1 14:28:38 2025] Client 4 connected
+[Sat Nov  1 14:28:38 2025] Client 16 connected
+[Sat Nov  1 14:28:38 2025] Client 3 connected
+[Sat Nov  1 14:28:38 2025] Client 17 connected
+[Sat Nov  1 14:28:38 2025] Client 12 connected
+[Sat Nov  1 14:28:38 2025] Client 13 connected
+[Sat Nov  1 14:28:38 2025] Client 14 connected
+[Sat Nov  1 14:28:38 2025] Client 15 connected
+[Sat Nov  1 14:28:38 2025] Client 33 connected
+[Sat Nov  1 14:28:38 2025] Client 5 connected
+[Sat Nov  1 14:28:38 2025] Client 6 connected
+[Sat Nov  1 14:28:38 2025] Client 29 connected
+[Sat Nov  1 14:28:38 2025] Client 28 connected
+[Sat Nov  1 14:28:38 2025] Client 7 connected
+[Sat Nov  1 14:28:38 2025] Client 26 connected
+[Sat Nov  1 14:28:38 2025] Client 25 connected
+[Sat Nov  1 14:28:38 2025] Client 27 connected
+[Sat Nov  1 14:28:38 2025] Client 24 connected
+[Sat Nov  1 14:28:38 2025] Client 35 connected
+[Sat Nov  1 14:28:38 2025] Client 1 connected
+[Sat Nov  1 14:28:38 2025] Client 8 connected
+[Sat Nov  1 14:28:38 2025] Client 9 connected
+[Sat Nov  1 14:28:38 2025] Client 10 connected
+[Sat Nov  1 14:28:38 2025] Client 11 connected
+[Sat Nov  1 14:28:38 2025] Client 23 connected
+[Sat Nov  1 14:28:38 2025] Client 34 connected
+[Sat Nov  1 14:28:38 2025] Client 19 connected
+[Sat Nov  1 14:28:38 2025] Client 20 connected
+[Sat Nov  1 14:28:38 2025] Client 21 connected
+[Sat Nov  1 14:28:38 2025] Client 30 connected
+[Sat Nov  1 14:28:38 2025] Client 18 connected
+[Sat Nov  1 14:28:38 2025] Client 31 connected
+[Sat Nov  1 14:28:38 2025] Client 0 connected
+[Sat Nov  1 14:28:38 2025] Client 36 connected
+[Sat Nov  1 14:28:38 2025] Client 32 connected
+[Sat Nov  1 14:28:38 2025] Client 37 connected
+[Sat Nov  1 14:28:38 2025] Client 38 connected
+[Sat Nov  1 14:28:38 2025] Client 39 connected
+[Sat Nov  1 14:28:38 2025] Client 40 connected
+[Sat Nov  1 14:28:38 2025] Client 41 connected
+[Sat Nov  1 14:28:38 2025] Client 42 connected
+[Sat Nov  1 14:28:38 2025] Client 43 connected
+[Sat Nov  1 14:28:38 2025] Client 44 connected
+[Sat Nov  1 14:28:38 2025] Client 45 connected
+[Sat Nov  1 14:28:38 2025] Client 46 connected
+[Sat Nov  1 14:28:38 2025] Client 47 connected
+[Sat Nov  1 14:28:38 2025] Client 48 connected
+[Sat Nov  1 14:28:38 2025] Client 49 connected
+[Sat Nov  1 14:28:38 2025] Client 50 connected
+[Sat Nov  1 14:28:38 2025] Client 51 connected
+[Sat Nov  1 14:28:38 2025] Client 52 connected
+[Sat Nov  1 14:28:38 2025] Client 53 connected
+[Sat Nov  1 14:28:38 2025] Client 54 connected
+[Sat Nov  1 14:28:38 2025] Client 55 connected
+[Sat Nov  1 14:28:38 2025] Client 56 connected
+[Sat Nov  1 14:28:38 2025] Client 57 connected
+[Sat Nov  1 14:28:38 2025] Client 59 connected
+[Sat Nov  1 14:28:38 2025] Client 60 connected
+[Sat Nov  1 14:28:38 2025] Client 61 connected
+[Sat Nov  1 14:28:38 2025] Client 58 connected
+[Sat Nov  1 14:28:38 2025] Client 63 connected
+[Sat Nov  1 14:28:38 2025] Client 64 connected
+[Sat Nov  1 14:28:38 2025] Client 65 connected
+[Sat Nov  1 14:28:38 2025] Client 66 connected
+[Sat Nov  1 14:28:38 2025] Client 67 connected
+[Sat Nov  1 14:28:38 2025] Client 68 connected
+[Sat Nov  1 14:28:38 2025] Client 69 connected
+[Sat Nov  1 14:28:38 2025] Client 70 connected
+[Sat Nov  1 14:28:38 2025] Client 71 connected
+[Sat Nov  1 14:28:38 2025] Client 72 connected
+[Sat Nov  1 14:28:38 2025] Client 73 connected
+[Sat Nov  1 14:28:38 2025] Client 74 connected
+[Sat Nov  1 14:28:38 2025] Client 75 connected
+[Sat Nov  1 14:28:38 2025] Client 76 connected
+[Sat Nov  1 14:28:38 2025] Client 77 connected
+[Sat Nov  1 14:28:38 2025] Client 78 connected
+[Sat Nov  1 14:28:38 2025] Client 79 connected
+[Sat Nov  1 14:28:38 2025] Client 80 connected
+[Sat Nov  1 14:28:38 2025] Client 81 connected
+[Sat Nov  1 14:28:38 2025] Client 82 connected
+[Sat Nov  1 14:28:38 2025] Client 83 connected
+[Sat Nov  1 14:28:38 2025] Client 84 connected
+[Sat Nov  1 14:28:38 2025] Client 85 connected
+[Sat Nov  1 14:28:38 2025] Client 86 connected
+[Sat Nov  1 14:28:38 2025] Client 87 connected
+[Sat Nov  1 14:28:38 2025] Client 88 connected
+[Sat Nov  1 14:28:38 2025] Client 89 connected
+[Sat Nov  1 14:28:38 2025] Client 90 connected
+[Sat Nov  1 14:28:38 2025] Client 91 connected
+[Sat Nov  1 14:28:38 2025] Client 92 connected
+[Sat Nov  1 14:28:38 2025] Client 93 connected
+[Sat Nov  1 14:28:38 2025] Client 94 connected
+[Sat Nov  1 14:28:38 2025] Client 95 connected
+[Sat Nov  1 14:28:38 2025] Client 62 connected
+[Sat Nov  1 14:28:38 2025] Client 98 connected
+[Sat Nov  1 14:28:38 2025] Client 99 connected
+[Sat Nov  1 14:28:38 2025] Client 97 connected
+[Sat Nov  1 14:28:38 2025] Client 96 connected
+[Sat Nov  1 14:28:58 2025] Login attempt: client_id=0, username=eva
+[Sat Nov  1 14:28:58 2025] eva logged in (client_id=0)
+[Sat Nov  1 14:29:17 2025] Login attempt: client_id=1, username=bob
+[Sat Nov  1 14:29:17 2025] bob logged in (client_id=1)
+[Sat Nov  1 14:29:30 2025] Login attempt: client_id=2, username=qa
+[Sat Nov  1 14:29:30 2025] qa logged in (client_id=2)
+[Sat Nov  1 14:29:40 2025] Login attempt: client_id=3, username=asd
+[Sat Nov  1 14:29:41 2025] Client 3 login failed, slot reset
+[Sat Nov  1 14:31:41 2025] Conversation directory created or exists
+[Sat Nov  1 14:31:41 2025] Loaded 6 users from user.txt
+[Sat Nov  1 14:31:41 2025] Loaded 5 groups from group.txt
+[Sat Nov  1 14:31:41 2025] Server started
+[Sat Nov  1 14:31:41 2025] Shared memory initialized
+[Sat Nov  1 14:31:41 2025] Client 1 connected
+[Sat Nov  1 14:31:41 2025] Client 11 connected
+[Sat Nov  1 14:31:41 2025] Client 2 connected
+[Sat Nov  1 14:31:41 2025] Client 20 connected
+[Sat Nov  1 14:31:41 2025] Client 21 connected
+[Sat Nov  1 14:31:41 2025] Client 12 connected
+[Sat Nov  1 14:31:41 2025] Client 3 connected
+[Sat Nov  1 14:31:41 2025] Client 0 connected
+[Sat Nov  1 14:31:41 2025] Client 33 connected
+[Sat Nov  1 14:31:41 2025] Client 18 connected
+[Sat Nov  1 14:31:41 2025] Client 8 connected
+[Sat Nov  1 14:31:41 2025] Client 10 connected
+[Sat Nov  1 14:31:41 2025] Client 9 connected
+[Sat Nov  1 14:31:41 2025] Client 7 connected
+[Sat Nov  1 14:31:41 2025] Client 6 connected
+[Sat Nov  1 14:31:41 2025] Client 5 connected
+[Sat Nov  1 14:31:41 2025] Client 4 connected
+[Sat Nov  1 14:31:41 2025] Client 19 connected
+[Sat Nov  1 14:31:41 2025] Client 30 connected
+[Sat Nov  1 14:31:41 2025] Client 43 connected
+[Sat Nov  1 14:31:41 2025] Client 13 connected
+[Sat Nov  1 14:31:41 2025] Client 16 connected
+[Sat Nov  1 14:31:41 2025] Client 14 connected
+[Sat Nov  1 14:31:41 2025] Client 17 connected
+[Sat Nov  1 14:31:41 2025] Client 23 connected
+[] Client 25 connected
+[Sat Nov  1 14:31:41 2025] Client 27 connected
+[Sat Nov  1 14:31:41 2025] Client 28 connected
+[Sat Nov  1 14:31:41 2025] Client 24 connected
+[Sat Nov  1 14:31:41 2025] Client 26 connected
+[Sat Nov  1 14:31:41 2025] Client 22 connected
+[Sat Nov  1 14:31:41 2025] Client 45 connected
+[Sat Nov  1 14:31:41 2025] Client 46 connected
+[Sat Nov  1 14:31:41 2025] Client 49 connected
+[Sat Nov  1 14:31:41 2025] Client 50 connected
+[Sat Nov  1 14:31:41 2025] Client 52 connected
+[Sat Nov  1 14:31:41 2025] Client 54 connected
+[Sat Nov  1 14:31:41 2025] Client 56 connected
+[Sat Nov  1 14:31:41 2025] Client 57 connected
+[Sat Nov  1 14:31:41 2025] Client 58 connected
+[Sat Nov  1 14:31:41 2025] Client 60 connected
+[Sat Nov  1 14:31:41 2025] Client 61 connected
+[Sat Nov  1 14:31:41 2025] Client 62 connected
+[Sat Nov  1 14:31:41 2025] Client 63 connected
+[Sat Nov  1 14:31:41 2025] Client 64 connected
+[Sat Nov  1 14:31:41 2025] Client 65 connected
+[Sat Nov  1 14:31:41 2025] Client 66 connected
+[Sat Nov  1 14:31:41 2025] Client 67 connected
+[Sat Nov  1 14:31:41 2025] Client 68 connected
+[Sat Nov  1 14:31:41 2025] Client 69 connected
+[Sat Nov  1 14:31:41 2025] Client 74 connected
+[Sat Nov  1 14:31:41 2025] Client 75 connected
+[Sat Nov  1 14:31:41 2025] Client 76 connected
+[Sat Nov  1 14:31:41 2025] Client 77 connected
+[Sat Nov  1 14:31:41 2025] Client 78 connected
+[Sat Nov  1 14:31:41 2025] Client 79 connected
+[Sat Nov  1 14:31:41 2025] Client 80 connected
+[Sat Nov  1 14:31:41 2025] Client 82 connected
+[Sat Nov  1 14:31:41 2025] Client 83 connected
+[Sat Nov  1 14:31:41 2025] Client 29 connected
+[Sat Nov  1 14:31:41 2025] Client 31 connected
+[Sat Nov  1 14:31:41 2025] Client 32 connected
+[] Client 44 connected
+[] [Sat Nov  1 14:31:41 2025] Client 37 connected
+[Sat Nov  1 14:31:41 2025] Client 47 connected
+[Sat Nov  1 14:31:41 2025] Client 39 connected
+[Sat Nov  1 14:31:41 2025] Client 40 connected
+[Sat Nov  1 14:31:41 2025] Client 59 connected
+[Sat Nov  1 14:31:41 2025] Client 41 connected
+[Sat Nov  1 14:31:41 2025] [Sat Nov  1 14:31:41 2025] Client 71 connected
+[Sat Nov  1 14:31:41 2025] Client 42 connected
+Client 35 connected
+[Sat Nov  1 14:31:41 2025] Client 38 connected
+Client 36 connected
+[Sat Nov  1 14:31:41 2025] Client 81 connected
+[Sat Nov  1 14:31:41 2025] Client 72 connected
+[Sat Nov  1 14:31:41 2025] Client 15 connected
+[Sat Nov  1 14:31:41 2025] Client 51 connected
+[Sat Nov  1 14:31:41 2025] Client 34 connected
+[Sat Nov  1 14:31:41 2025] Client 55 connected
+[Sat Nov  1 14:31:41 2025] Client 53 connected
+[Sat Nov  1 14:31:41 2025] Client 70 connected
+[Sat Nov  1 14:31:41 2025] Client 73 connected
+[Sat Nov  1 14:31:41 2025] Client 48 connected
+[Sat Nov  1 14:31:41 2025] Client 84 connected
+[Sat Nov  1 14:31:41 2025] Client 85 connected
+[Sat Nov  1 14:31:41 2025] Client 86 connected
+[Sat Nov  1 14:31:41 2025] Client 87 connected
+[Sat Nov  1 14:31:41 2025] Client 88 connected
+[Sat Nov  1 14:31:41 2025] Client 89 connected
+[Sat Nov  1 14:31:41 2025] Client 90 connected
+[Sat Nov  1 14:31:41 2025] Client 91 connected
+[Sat Nov  1 14:31:41 2025] Client 92 connected
+[Sat Nov  1 14:31:41 2025] Client 93 connected
+[Sat Nov  1 14:31:41 2025] Client 94 connected
+[Sat Nov  1 14:31:41 2025] Client 95 connected
+[Sat Nov  1 14:31:41 2025] Client 98 connected
+[Sat Nov  1 14:31:41 2025] Client 97 connected
+[Sat Nov  1 14:31:41 2025] Client 96 connected
+[Sat Nov  1 14:31:41 2025] Client 99 connected
+[Sat Nov  1 14:31:59 2025] Login attempt: client_id=0, username=bob
+[Sat Nov  1 14:31:59 2025] bob logged in (client_id=0)
+[Sat Nov  1 14:32:06 2025] Login attempt: client_id=1, username=asds
+[Sat Nov  1 14:32:06 2025] Client 1 login failed, slot reset
+[Sat Nov  1 14:34:29 2025] Server shutting down...
+[Sat Nov  1 14:35:12 2025] Conversation directory created or exists
+[Sat Nov  1 14:35:12 2025] Loaded 6 users from user.txt
+[Sat Nov  1 14:35:12 2025] Loaded 5 groups from group.txt
+[Sat Nov  1 14:35:12 2025] Server started
+[Sat Nov  1 14:35:12 2025] Shared memory initialized
+[Sat Nov  1 14:35:12 2025] Client 0 connected
+[Sat Nov  1 14:35:12 2025] Client 1 connected
+[Sat Nov  1 14:35:12 2025] Client 2 connected
+[Sat Nov  1 14:35:12 2025] Client 3 connected
+[Sat Nov  1 14:35:12 2025] Client 4 connected
+[Sat Nov  1 14:35:12 2025] Client 5 connected
+[Sat Nov  1 14:35:12 2025] Client 7 connected
+[Sat Nov  1 14:35:12 2025] Client 8 connected
+[Sat Nov  1 14:35:12 2025] Client 9 connected
+[Sat Nov  1 14:35:12 2025] Client 11 connected
+[Sat Nov  1 14:35:12 2025] Client 12 connected
+[Sat Nov  1 14:35:12 2025] Client 13 connected
+[Sat Nov  1 14:35:12 2025] Client 14 connected
+[Sat Nov  1 14:35:12 2025] Client 15 connected
+[Sat Nov  1 14:35:12 2025] Client 17 connected
+[Sat Nov  1 14:35:12 2025] Client 18 connected
+[Sat Nov  1 14:35:12 2025] Client 19 connected
+[Sat Nov  1 14:35:12 2025] Client 20 connected
+[Sat Nov  1 14:35:12 2025] Client 21 connected
+[Sat Nov  1 14:35:12 2025] Client 22 connected
+[Sat Nov  1 14:35:12 2025] Client 23 connected
+[Sat Nov  1 14:35:12 2025] Client 24 connected
+[Sat Nov  1 14:35:12 2025] Client 25 connected
+[Sat Nov  1 14:35:12 2025] Client 26 connected
+[Sat Nov  1 14:35:12 2025] Client 27 connected
+[Sat Nov  1 14:35:12 2025] Client 28 connected
+[Sat Nov  1 14:35:12 2025] Client 29 connected
+[Sat Nov  1 14:35:12 2025] Client 30 connected
+[Sat Nov  1 14:35:12 2025] Client 31 connected
+[Sat Nov  1 14:35:12 2025] Client 32 connected
+[Sat Nov  1 14:35:12 2025] Client 33 connected
+[Sat Nov  1 14:35:12 2025] Client 34 connected
+[Sat Nov  1 14:35:12 2025] Client 35 connected
+[Sat Nov  1 14:35:12 2025] Client 36 connected
+[Sat Nov  1 14:35:12 2025] Client 37 connected
+[Sat Nov  1 14:35:12 2025] Client 38 connected
+[Sat Nov  1 14:35:12 2025] Client 39 connected
+[Sat Nov  1 14:35:12 2025] Client 40 connected
+[Sat Nov  1 14:35:12 2025] Client 41 connected
+[Sat Nov  1 14:35:12 2025] Client 42 connected
+[Sat Nov  1 14:35:12 2025] Client 43 connected
+[Sat Nov  1 14:35:12 2025] Client 44 connected
+[Sat Nov  1 14:35:12 2025] Client 45 connected
+[Sat Nov  1 14:35:12 2025] Client 46 connected
+[Sat Nov  1 14:35:12 2025] Client 47 connected
+[Sat Nov  1 14:35:12 2025] Client 48 connected
+[Sat Nov  1 14:35:12 2025] Client 49 connected
+[Sat Nov  1 14:35:12 2025] Client 50 connected
+[Sat Nov  1 14:35:12 2025] Client 51 connected
+[Sat Nov  1 14:35:12 2025] Client 52 connected
+[Sat Nov  1 14:35:12 2025] Client 53 connected
+[Sat Nov  1 14:35:12 2025] Client 54 connected
+[Sat Nov  1 14:35:12 2025] Client 55 connected
+[Sat Nov  1 14:35:12 2025] Client 57 connected
+[Sat Nov  1 14:35:12 2025] Client 56 connected
+[Sat Nov  1 14:35:12 2025] Client 16 connected
+[Sat Nov  1 14:35:12 2025] Client 58 connected
+[Sat Nov  1 14:35:12 2025] Client 59 connected
+[Sat Nov  1 14:35:12 2025] Client 60 connected
+[Sat Nov  1 14:35:12 2025] Client 61 connected
+[Sat Nov  1 14:35:12 2025] Client 62 connected
+[Sat Nov  1 14:35:12 2025] Client 63 connected
+[Sat Nov  1 14:35:12 2025] Client 64 connected
+[Sat Nov  1 14:35:12 2025] Client 65 connected
+[Sat Nov  1 14:35:12 2025] Client 66 connected
+[Sat Nov  1 14:35:12 2025] Client 67 connected
+[Sat Nov  1 14:35:12 2025] Client 68 connected
+[Sat Nov  1 14:35:12 2025] Client 69 connected
+[Sat Nov  1 14:35:12 2025] Client 70 connected
+[Sat Nov  1 14:35:12 2025] Client 71 connected
+[Sat Nov  1 14:35:12 2025] Client 72 connected
+[Sat Nov  1 14:35:12 2025] Client 73 connected
+[Sat Nov  1 14:35:12 2025] Client 74 connected
+[Sat Nov  1 14:35:12 2025] Client 75 connected
+[Sat Nov  1 14:35:12 2025] Client 76 connected
+[Sat Nov  1 14:35:12 2025] Client 77 connected
+[Sat Nov  1 14:35:12 2025] Client 78 connected
+[Sat Nov  1 14:35:12 2025] Client 79 connected
+[Sat Nov  1 14:35:12 2025] Client 80 connected
+[Sat Nov  1 14:35:12 2025] Client 81 connected
+[Sat Nov  1 14:35:12 2025] Client 82 connected
+[Sat Nov  1 14:35:12 2025] Client 83 connected
+[Sat Nov  1 14:35:12 2025] Client 10 connected
+[Sat Nov  1 14:35:12 2025] Client 84 connected
+[Sat Nov  1 14:35:12 2025] Client 85 connected
+[Sat Nov  1 14:35:12 2025] Client 86 connected
+[Sat Nov  1 14:35:12 2025] Client 87 connected
+[Sat Nov  1 14:35:12 2025] Client 88 connected
+[Sat Nov  1 14:35:12 2025] Client 89 connected
+[Sat Nov  1 14:35:12 2025] Client 90 connected
+[Sat Nov  1 14:35:12 2025] Client 6 connected
+[Sat Nov  1 14:35:12 2025] Client 98 connected
+[Sat Nov  1 14:35:12 2025] Client 99 connected
+[Sat Nov  1 14:35:12 2025] Client 97 connected
+[Sat Nov  1 14:35:12 2025] Client 96 connected
+[Sat Nov  1 14:35:12 2025] Client 95 connected
+[Sat Nov  1 14:35:12 2025] Client 94 connected
+[Sat Nov  1 14:35:12 2025] Client 93 connected
+[Sat Nov  1 14:35:12 2025] Client 92 connected
+[Sat Nov  1 14:35:12 2025] Client 91 connected
+[Sat Nov  1 14:35:27 2025] Login attempt: client_id=0, username=bob
+[Sat Nov  1 14:35:27 2025] bob logged in (client_id=0)
+[Sat Nov  1 14:35:37 2025] Login attempt: client_id=1, username=qa
+[Sat Nov  1 14:35:37 2025] qa logged in (client_id=1)
+[Sat Nov  1 14:39:12 2025] Received from bob: /qa hello qa!
+[Sat Nov  1 14:39:12 2025] Parsed command from bob: target=qa, msg='hello qa!'
+[Sat Nov  1 14:39:12 2025] Sending private message to qa: hello qa!
+[Sat Nov  1 14:39:12 2025] Saved conversation to conversation/conversation_bob_qa.txt: bob: hello qa!
+[Sat Nov  1 14:39:12 2025] bob → qa: hello qa!
+[Sat Nov  1 14:39:35 2025] Received from bob: hello qa!
+[Sat Nov  1 14:39:35 2025] Broadcasting message from bob: hello qa!
+[Sat Nov  1 14:39:35 2025] bob broadcast: hello qa!
+[Sat Nov  1 14:40:28 2025] Received from bob: /qa how are you
+[Sat Nov  1 14:40:28 2025] Parsed command from bob: target=qa, msg='how are you'
+[Sat Nov  1 14:40:28 2025] Sending private message to qa: how are you
+[Sat Nov  1 14:40:28 2025] Saved conversation to conversation/conversation_bob_qa.txt: bob: how are you
+[Sat Nov  1 14:40:28 2025] bob → qa: how are you
+[Sat Nov  1 14:40:50 2025] Received from qa: /bob so so
+[Sat Nov  1 14:40:50 2025] Parsed command from qa: target=bob, msg='so so'
+[Sat Nov  1 14:40:50 2025] Sending private message to bob: so so
+[Sat Nov  1 14:40:50 2025] Saved conversation to conversation/conversation_bob_qa.txt: qa: so so
+[Sat Nov  1 14:40:50 2025] qa → bob: so so
+[Sat Nov  1 14:41:29 2025] Received from qa: /users
+[Sat Nov  1 14:41:42 2025] Received from qa: /groups
+[Sat Nov  1 14:42:27 2025] Received from qa: |group2 hi everyone
+[Sat Nov  1 14:42:27 2025] Fetching conversation history for group2 hi everyone
+[Sat Nov  1 14:42:27 2025] Attempting to read conversation file: conversation/conversation_group2 hi everyone_qa.txt
+[Sat Nov  1 14:45:09 2025] Received from qa: / group2 - QA_Team
+[Sat Nov  1 14:45:09 2025] Parsed command from qa: target=, msg='group2 - QA_Team'
+[Sat Nov  1 14:45:09 2025] Invalid target: 
+[Sat Nov  1 14:45:16 2025] Received from qa: |group2 - QA_Team
+[Sat Nov  1 14:45:16 2025] Fetching conversation history for group2 - QA_Team
+[Sat Nov  1 14:45:16 2025] Attempting to read conversation file: conversation/conversation_group2 - QA_Team_qa.txt
+[Sat Nov  1 14:45:33 2025] Received from qa: /group2 - QA_Team
+[Sat Nov  1 14:45:33 2025] Parsed command from qa: target=group2, msg='- QA_Team'
+[Sat Nov  1 14:45:33 2025] Sending group message to group2: - QA_Team
+[Sat Nov  1 14:45:33 2025] Saved conversation to conversation/conversation_group2.txt: qa: - QA_Team
+[Sat Nov  1 14:45:33 2025] qa → GROUP group2: - QA_Team
+[Sat Nov  1 14:45:54 2025] Received from qa: hi everyone
+[Sat Nov  1 14:45:54 2025] Broadcasting message from qa: hi everyone
+[Sat Nov  1 14:45:54 2025] qa broadcast: hi everyone
+[Sat Nov  1 14:47:11 2025] Received from bob: /group2 my name is qa
+[Sat Nov  1 14:47:11 2025] Parsed command from bob: target=group2, msg='my name is qa'
+[Sat Nov  1 14:47:11 2025] Invalid target: group2
+[Sat Nov  1 14:47:16 2025] Received from bob: /group2 - QA_Team
+[Sat Nov  1 14:47:16 2025] Parsed command from bob: target=group2, msg='- QA_Team'
+[Sat Nov  1 14:47:16 2025] Invalid target: group2
+[Sat Nov  1 14:47:49 2025] Received from qa: my name is qa
+[Sat Nov  1 14:47:49 2025] Broadcasting message from qa: my name is qa
+[Sat Nov  1 14:47:49 2025] qa broadcast: my name is qa
+[Sat Nov  1 14:48:35 2025] Received from qa: |group2 - QA_Team
+[Sat Nov  1 14:48:35 2025] Fetching conversation history for group2 - QA_Team
+[Sat Nov  1 14:48:35 2025] Attempting to read conversation file: conversation/conversation_group2 - QA_Team_qa.txt
+[Sat Nov  1 14:48:42 2025] Received from qa: /|group2 - QA_Team
+[Sat Nov  1 14:48:42 2025] Parsed command from qa: target=|group2, msg='- QA_Team'
+[Sat Nov  1 14:48:42 2025] Invalid target: |group2
+[Sat Nov  1 14:49:23 2025] Received from qa: /group2 - QA_Team hi everyone
+[Sat Nov  1 14:49:23 2025] Parsed command from qa: target=group2, msg='- QA_Team hi everyone'
+[Sat Nov  1 14:49:23 2025] Sending group message to group2: - QA_Team hi everyone
+[Sat Nov  1 14:49:23 2025] Saved conversation to conversation/conversation_group2.txt: qa: - QA_Team hi everyone
+[Sat Nov  1 14:49:23 2025] qa → GROUP group2: - QA_Team hi everyone
+[Sat Nov  1 14:51:26 2025] Received from qa: /group2 - QA_team こんにちは
+[Sat Nov  1 14:51:26 2025] Parsed command from qa: target=group2, msg='- QA_team こんにちは'
+[Sat Nov  1 14:51:26 2025] Sending group message to group2: - QA_team こんにちは
+[Sat Nov  1 14:51:26 2025] Saved conversation to conversation/conversation_group2.txt: qa: - QA_team こんにちは
+[Sat Nov  1 14:51:26 2025] qa → GROUP group2: - QA_team こんにちは
+[Sat Nov  1 14:55:57 2025] Login attempt: client_id=2, username=eva
+[Sat Nov  1 14:55:57 2025] eva logged in (client_id=2)
+[Sat Nov  1 14:56:13 2025] Received from eva: /groups
+[Sat Nov  1 14:56:23 2025] Received from eva: /group2 - QA_Team
+[Sat Nov  1 14:56:23 2025] Parsed command from eva: target=group2, msg='- QA_Team'
+[Sat Nov  1 14:56:23 2025] Sending group message to group2: - QA_Team
+[Sat Nov  1 14:56:23 2025] Saved conversation to conversation/conversation_group2.txt: eva: - QA_Team
+[Sat Nov  1 14:56:23 2025] eva → GROUP group2: - QA_Team
+[Sat Nov  1 14:56:39 2025] Received from eva: konicucga
+[Sat Nov  1 14:56:39 2025] Broadcasting message from eva: konicucga
+[Sat Nov  1 14:56:39 2025] eva broadcast: konicucga
+[Sat Nov  1 14:56:53 2025] Received from eva: hi mn hi
+[Sat Nov  1 14:56:53 2025] Broadcasting message from eva: hi mn hi
+[Sat Nov  1 14:56:53 2025] eva broadcast: hi mn hi
+[Sat Nov  1 15:13:32 2025] Login attempt: client_id=3, username=������
+[Sat Nov  1 15:13:33 2025] Client 3 login failed, slot reset
+[Sat Nov  1 15:42:51 2025] Conversation directory created or exists
+[Sat Nov  1 15:42:51 2025] Loaded 6 users from user.txt
+[Sat Nov  1 15:42:51 2025] Loaded 5 groups from group.txt
+[Sat Nov  1 15:42:51 2025] Server started
+[Sat Nov  1 15:42:51 2025] Shared memory initialized
+[Sat Nov  1 15:42:51 2025] Client 2 connected
+[Sat Nov  1 15:42:51 2025] Client 3 connected
+[Sat Nov  1 15:42:51 2025] Client 4 connected
+[Sat Nov  1 15:42:51 2025] Client 5 connected
+[Sat Nov  1 15:42:51 2025] Client 6 connected
+[Sat Nov  1 15:42:51 2025] Client 12 connected
+[Sat Nov  1 15:42:51 2025] Client 10 connected
+[Sat Nov  1 15:42:51 2025] Client 23 connected
+[Sat Nov  1 15:42:51 2025] Client 27 connected
+[Sat Nov  1 15:42:51 2025] Client 9 connected
+[Sat Nov  1 15:42:51 2025] Client 30 connected
+[Sat Nov  1 15:42:51 2025] Client 31 connected
+[Sat Nov  1 15:42:51 2025] Client 32 connected
+[Sat Nov  1 15:42:51 2025] Client 62 connected
+[Sat Nov  1 15:42:51 2025] Client 42 connected
+[Sat Nov  1 15:42:51 2025] Client 0 connected
+[Sat Nov  1 15:42:51 2025] Client 59 connected
+[Sat Nov  1 15:42:51 2025] Client 48 connected
+[Sat Nov  1 15:42:51 2025] Client 47 connected
+[Sat Nov  1 15:42:51 2025] Client 14 connected
+[Sat Nov  1 15:42:51 2025] Client 15 connected
+[Sat Nov  1 15:42:51 2025] Client 16 connected
+[Sat Nov  1 15:42:51 2025] Client 17 connected
+[Sat Nov  1 15:42:51 2025] Client 18 connected
+[Sat Nov  1 15:42:51 2025] Client 19 connected
+[Sat Nov  1 15:42:51 2025] Client 26 connected
+[Sat Nov  1 15:42:51 2025] Client 33 connected
+[Sat Nov  1 15:42:51 2025] Client 1 connected
+[Sat Nov  1 15:42:51 2025] Client 38 connected
+[Sat Nov  1 15:42:51 2025] Client 41 connected
+[Sat Nov  1 15:42:51 2025] Client 46 connected
+[Sat Nov  1 15:42:51 2025] Client 39 connected
+[Sat Nov  1 15:42:51 2025] Client 40 connected
+[Sat Nov  1 15:42:51 2025] Client 43 connected
+[Sat Nov  1 15:42:51 2025] Client 44 connected
+[Sat Nov  1 15:42:51 2025] Client 45 connected
+[Sat Nov  1 15:42:51 2025] Client 20 connected
+[] Client 13 connected
+[Sat Nov  1 15:42:51 2025] Client 25 connected
+[Sat Nov  1 15:42:51 2025] Client 21 connected
+[Sat Nov  1 15:42:51 2025] Client 28 connected
+[Sat Nov  1 15:42:51 2025] Client 24 connected
+[Sat Nov  1 15:42:51 2025] Client 22 connected
+[Sat Nov  1 15:42:51 2025] Client 11 connected
+[Sat Nov  1 15:42:51 2025] Client 29 connected
+[Sat Nov  1 15:42:51 2025] Client 63 connected
+[Sat Nov  1 15:42:51 2025] Client 34 connected
+[Sat Nov  1 15:42:51 2025] Client 64 connected
+[Sat Nov  1 15:42:51 2025] Client 36 connected
+[Sat Nov  1 15:42:51 2025] Client 65 connected
+[Sat Nov  1 15:42:51 2025] Client 8 connected
+[Sat Nov  1 15:42:51 2025] Client 35 connected
+[Sat Nov  1 15:42:51 2025] Client 37 connected
+[Sat Nov  1 15:42:51 2025] Client 50 connected
+[Sat Nov  1 15:42:51 2025] Client 51 connected
+[Sat Nov  1 15:42:51 2025] Client 52 connected
+[Sat Nov  1 15:42:51 2025] Client 53 connected
+[Sat Nov  1 15:42:51 2025] Client 49 connected
+[Sat Nov  1 15:42:51 2025] Client 57 connected
+[Sat Nov  1 15:42:51 2025] Client 58 connected
+[Sat Nov  1 15:42:51 2025] Client 7 connected
+[Sat Nov  1 15:42:51 2025] Client 55 connected
+[Sat Nov  1 15:42:51 2025] Client 66 connected
+[Sat Nov  1 15:42:51 2025] Client 54 connected
+[Sat Nov  1 15:42:51 2025] Client 56 connected
+[Sat Nov  1 15:42:51 2025] Client 60 connected
+[Sat Nov  1 15:42:51 2025] Client 61 connected
+[Sat Nov  1 15:42:51 2025] Client 67 connected
+[Sat Nov  1 15:42:51 2025] Client 69 connected
+[Sat Nov  1 15:42:51 2025] Client 70 connected
+[Sat Nov  1 15:42:51 2025] Client 71 connected
+[Sat Nov  1 15:42:51 2025] Client 72 connected
+[Sat Nov  1 15:42:51 2025] Client 73 connected
+[Sat Nov  1 15:42:51 2025] Client 74 connected
+[Sat Nov  1 15:42:51 2025] Client 75 connected
+[Sat Nov  1 15:42:51 2025] Client 76 connected
+[Sat Nov  1 15:42:51 2025] Client 77 connected
+[Sat Nov  1 15:42:51 2025] Client 78 connected
+[Sat Nov  1 15:42:51 2025] Client 79 connected
+[Sat Nov  1 15:42:51 2025] Client 80 connected
+[Sat Nov  1 15:42:51 2025] Client 81 connected
+[Sat Nov  1 15:42:51 2025] Client 82 connected
+[Sat Nov  1 15:42:51 2025] Client 83 connected
+[Sat Nov  1 15:42:51 2025] Client 84 connected
+[Sat Nov  1 15:42:51 2025] Client 85 connected
+[Sat Nov  1 15:42:51 2025] Client 86 connected
+[Sat Nov  1 15:42:51 2025] Client 68 connected
+[Sat Nov  1 15:42:51 2025] Client 88 connected
+[Sat Nov  1 15:42:51 2025] Client 89 connected
+[Sat Nov  1 15:42:51 2025] Client 90 connected
+[Sat Nov  1 15:42:51 2025] Client 91 connected
+[Sat Nov  1 15:42:51 2025] Client 92 connected
+[Sat Nov  1 15:42:51 2025] Client 93 connected
+[Sat Nov  1 15:42:51 2025] Client 94 connected
+[Sat Nov  1 15:42:51 2025] Client 95 connected
+[Sat Nov  1 15:42:51 2025] Client 96 connected
+[Sat Nov  1 15:42:51 2025] Client 97 connected
+[Sat Nov  1 15:42:51 2025] Client 98 connected
+[Sat Nov  1 15:42:51 2025] Client 87 connected
+[Sat Nov  1 15:42:51 2025] Client 99 connected
+[Sat Nov  1 15:43:16 2025] Login attempt: client_id=0, username=bob
+[Sat Nov  1 15:43:16 2025] bob logged in (client_id=0)
+[Thu Nov  6 22:12:38 2025] Loaded 6 users
+[Thu Nov  6 22:12:38 2025] Loaded 5 groups
+[Thu Nov  6 22:12:38 2025] Server started
+[Thu Nov  6 22:12:52 2025] New client on slot 0
+[Thu Nov  6 22:12:59 2025] qa logged in (slot 0)
+[Thu Nov  6 22:13:16 2025] New client on slot 1
+[Thu Nov  6 22:13:20 2025] bob logged in (slot 1)
+[Thu Nov  6 22:13:34 2025] bob disconnected
+[Thu Nov  6 22:13:42 2025] New client on slot 1
+[Thu Nov  6 22:13:46 2025] bob logged in (slot 1)
+[Thu Nov  6 22:18:00 2025] Slot 0 timeout
+[Thu Nov  6 22:18:00 2025] qa disconnected
+[Thu Nov  6 22:18:47 2025] Slot 1 timeout
+[Thu Nov  6 22:18:47 2025] bob disconnected
+[Thu Nov  6 22:42:42 2025] Server shutdown
+[Thu Nov  6 22:42:56 2025] Loaded 6 users
+[Thu Nov  6 22:42:56 2025] Loaded 5 groups
+[Thu Nov  6 22:42:56 2025] Server started
+[Thu Nov  6 22:43:15 2025] New client on slot 0
+[Thu Nov  6 22:43:19 2025] qa logged in (slot 0)
+[Thu Nov  6 22:43:39 2025] Server shutdown
+[Thu Nov  6 22:43:50 2025] Loaded 6 users
+[Thu Nov  6 22:43:50 2025] Loaded 5 groups
+[Thu Nov  6 22:43:50 2025] Server started
+[Thu Nov  6 22:44:05 2025] Loaded 6 users
+[Thu Nov  6 22:44:05 2025] Loaded 5 groups
+[Thu Nov  6 22:44:05 2025] Server started
+[Thu Nov  6 22:45:09 2025] Loaded 6 users
+[Thu Nov  6 22:45:09 2025] Loaded 5 groups
+[Thu Nov  6 22:45:09 2025] Server started
+[Thu Nov  6 22:45:23 2025] New client on slot 0
+[Thu Nov  6 22:45:26 2025] qa logged in (slot 0)
+[Thu Nov  6 22:48:26 2025] New client on slot 1
+[Thu Nov  6 22:48:30 2025] bob logged in (slot 1)
+[Thu Nov  6 22:54:08 2025] Slot 1 timeout
+[Thu Nov  6 22:54:08 2025] bob disconnected
+[Thu Nov  6 22:58:26 2025] New client on slot 1
+[Thu Nov  6 22:58:32 2025] bob logged in (slot 1)
+[Thu Nov  6 23:02:11 2025] New client on slot 2
+[Thu Nov  6 23:02:15 2025] eva logged in (slot 2)
+[Thu Nov  6 23:03:39 2025] Slot 1 timeout
+[Thu Nov  6 23:03:39 2025] bob disconnected
+[Thu Nov  6 23:06:23 2025] Slot 0 timeout
+[Thu Nov  6 23:06:23 2025] qa disconnected
+[Thu Nov  6 23:08:03 2025] Loaded 6 users
+[Thu Nov  6 23:08:03 2025] Loaded 5 groups
+[Thu Nov  6 23:08:03 2025] Server started
+[Thu Nov  6 23:08:15 2025] New client on slot 0
+[Thu Nov  6 23:08:18 2025] qa logged in (slot 0)
+[Thu Nov  6 23:08:36 2025] New client on slot 1
+[Thu Nov  6 23:08:39 2025] bob logged in (slot 1)
+[Thu Nov  6 23:09:19 2025] New client on slot 2
+[Thu Nov  6 23:09:24 2025] eva logged in (slot 2)
+[Thu Nov  6 23:13:48 2025] Slot 1 timeout
+[Thu Nov  6 23:13:48 2025] bob disconnected
+[Thu Nov  6 23:16:14 2025] Slot 0 timeout
+[Thu Nov  6 23:16:14 2025] qa disconnected
+[Thu Nov  6 23:21:23 2025] Slot 2 timeout
+[Thu Nov  6 23:21:23 2025] eva disconnected
+[Thu Nov  6 23:34:14 2025] Loaded 6 users
+[Thu Nov  6 23:34:14 2025] Loaded 5 groups
+[Thu Nov  6 23:34:14 2025] Server started
+[Thu Nov  6 23:34:23 2025] New client on slot 0
+[Thu Nov  6 23:34:27 2025] qa logged in (slot 0)
+[Thu Nov  6 23:34:33 2025] New client on slot 1
+[Thu Nov  6 23:34:37 2025] bob logged in (slot 1)
+[Thu Nov  6 23:34:43 2025] New client on slot 2
+[Thu Nov  6 23:36:07 2025] New client on slot 2
+[Thu Nov  6 23:36:11 2025] eva logged in (slot 2)
+[Thu Nov  6 23:41:12 2025] Slot 2 timeout
+[Thu Nov  6 23:41:12 2025] eva disconnected
+[Thu Nov  6 23:44:25 2025] Slot 1 timeout
+[Thu Nov  6 23:44:25 2025] bob disconnected
+[Thu Nov  6 23:46:27 2025] Loaded 6 users
+[Thu Nov  6 23:46:27 2025] Loaded 5 groups
+[Thu Nov  6 23:46:27 2025] Server started
+[Thu Nov  6 23:48:07 2025] New client on slot 0
+[Thu Nov  6 23:48:11 2025] qa logged in (slot 0)
+[Thu Nov  6 23:48:23 2025] New client on slot 1
+[Thu Nov  6 23:48:27 2025] bob logged in (slot 1)
+[Thu Nov  6 23:50:32 2025] New client on slot 2
+[Thu Nov  6 23:50:53 2025] New client on slot 2
+[Thu Nov  6 23:50:59 2025] eva logged in (slot 2)
+[Thu Nov  6 23:56:12 2025] New client on slot 3
+[Thu Nov  6 23:56:22 2025] New client on slot 3
+[Thu Nov  6 23:56:58 2025] New client on slot 3
+[Thu Nov  6 23:57:20 2025] bob disconnected
+[Thu Nov  6 23:57:24 2025] New client on slot 1
+[Thu Nov  6 23:57:29 2025] bob logged in (slot 1)
